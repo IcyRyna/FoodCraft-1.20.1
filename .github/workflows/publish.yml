@@ -63,7 +63,7 @@ jobs:
         uses: actions/setup-java@b6effb05e454b25005698d916606bdc6ffcbf961
         with:
           distribution: microsoft
-          java-version: '17.0.20'
+          java-version: '17.0.19'
 
       - name: Run core tests and build both loaders
         run: ./gradlew --no-daemon --write-verification-metadata sha256 :core:test :forge:build :fabric:build
