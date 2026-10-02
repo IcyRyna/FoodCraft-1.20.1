@@ -1,0 +1,842 @@
+{
+  "foodcraft:item/itemaeljichi": {
+    "resource": "assets/foodcraft/textures/item/itemaeljichi.png",
+    "sha256": "feca4929c17ec4b34baa899cc190d1be30216feb7c64e282ee20f9045baefb94"
+  },
+  "foodcraft:item/itemaeljichifan": {
+    "resource": "assets/foodcraft/textures/item/itemaeljichifan.png",
+    "sha256": "4e73ca7f860204f0aa3cdfb2fcb648752e725d2557edd8720ac7a252b9517f36"
+  },
+  "foodcraft:item/itemaici": {
+    "resource": "assets/foodcraft/textures/item/itemaici.png",
+    "sha256": "ccea4d8ff0a4c179670e5b479bc1115bb181a1b9f345f569678586928b1c52c1"
+  },
+  "foodcraft:item/itembaifan": {
+    "resource": "assets/foodcraft/textures/item/itembaifan.png",
+    "sha256": "c597a44b2b41312644b93e24b2530ac5f0c44baec510065a1051a8c220f1a0ed"
+  },
+  "foodcraft:item/itembaijiu": {
+    "resource": "assets/foodcraft/textures/item/itembaijiu.png",
+    "sha256": "e3e3cd083e5897dfeea2414a05e4647eaaf63b05dde6e510675f8f6fc541cbf0"
+  },
+  "foodcraft:item/itembailuobo": {
+    "resource": "assets/foodcraft/textures/item/itembailuobo.png",
+    "sha256": "f12683e03f25d91ac11f709019355136aa4e1e8df1e714e70b10dc20141a8e5e"
+  },
+  "foodcraft:item/itembaiqiuji": {
+    "resource": "assets/foodcraft/textures/item/itembaiqiuji.png",
+    "sha256": "2fc30ab9144ed1718a83a3b21847a4163b1657d7a316846d79a96344a05da2a2"
+  },
+  "foodcraft:item/itembaoyumihua": {
+    "resource": "assets/foodcraft/textures/item/itembaoyumihua.png",
+    "sha256": "9363f4cd80f9aa5c1f69548739cb6c69b25bd9f09f76d077fbc5dac732919a26"
+  },
+  "foodcraft:item/itembinggan": {
+    "resource": "assets/foodcraft/textures/item/itembinggan.png",
+    "sha256": "9b094e418ae5d6bbd060072ab47f0cee85ada98edc74199a6a15d986c644eb92"
+  },
+  "foodcraft:item/itemcaidao": {
+    "resource": "assets/foodcraft/textures/item/itemcaidao.png",
+    "sha256": "d8427d95f79c4a5de045ded21f7f58ad6828977bb098f73704d7dc2d44a6f7c1"
+  },
+  "foodcraft:item/itemcaidaohj": {
+    "resource": "assets/foodcraft/textures/item/itemcaidaohj.png",
+    "sha256": "21f6fb5403e918304766d8b361b4279de001a389928ccfd1380dd889957abe34"
+  },
+  "foodcraft:item/itemcaidaolbs": {
+    "resource": "assets/foodcraft/textures/item/itemcaidaolbs.png",
+    "sha256": "8fd6d7ce0299d0ee11c477c7bed4b030d356cc21be37821e2ef661a12003d26c"
+  },
+  "foodcraft:item/itemcaidaozs": {
+    "resource": "assets/foodcraft/textures/item/itemcaidaozs.png",
+    "sha256": "35feede2dc617c21dff71cb081004fdb630ec4b67cf8659d2639278969fd7b2f"
+  },
+  "foodcraft:item/itemcaomei": {
+    "resource": "assets/foodcraft/textures/item/itemcaomei.png",
+    "sha256": "8a761ea87bec7e8b8398b6435ec4edc5b18e5e0ee4141af8e79fdcc8904b7011"
+  },
+  "foodcraft:item/itemcaomeibg": {
+    "resource": "assets/foodcraft/textures/item/itemcaomeibg.png",
+    "sha256": "855e22aef441ccafad4c9bb609649e1d490a65c98764b9239c23cb98af5e3735"
+  },
+  "foodcraft:item/itemcaomeidg": {
+    "resource": "assets/foodcraft/textures/item/itemcaomeidg.png",
+    "sha256": "443fdc6929ea9ed63b536c6e117bca61ac538fd5fba1481d5edd30de981e8307"
+  },
+  "foodcraft:item/itemcaomeigj": {
+    "resource": "assets/foodcraft/textures/item/itemcaomeigj.png",
+    "sha256": "ee30a9beb1b77f9e0db2d5319d71227f0fe3efda0a10341b91f08d8975667f67"
+  },
+  "foodcraft:item/itemcaomeizhi": {
+    "resource": "assets/foodcraft/textures/item/itemcaomeizhi.png",
+    "sha256": "d080886083262f37da417f4db1e000ccb2155fed4d6bbfb2d172788371b8d509"
+  },
+  "foodcraft:item/itemcaomeizhiice": {
+    "resource": "assets/foodcraft/textures/item/itemcaomeizhiice.png",
+    "sha256": "200e43d5aa08d8ec81041212aaf4b0fb2539f84cef51dfd78efc7884236d68ff"
+  },
+  "foodcraft:item/itemcha": {
+    "resource": "assets/foodcraft/textures/item/itemcha.png",
+    "sha256": "82c24b543b1e6b45d8513e0602b93a838f5b88cfcf4cefd074e5ad2799280510"
+  },
+  "foodcraft:item/itemchangfen": {
+    "resource": "assets/foodcraft/textures/item/itemchangfen.png",
+    "sha256": "8be5e6e4503528c7acc89a57ef30190f2fe6d5d5a91dee47dbb84f84b4578948"
+  },
+  "foodcraft:item/itemchaotudousifan": {
+    "resource": "assets/foodcraft/textures/item/itemchaotudousifan.png",
+    "sha256": "09c4c4e3b0262da85352e8a5d8799eca5b0209a5bb0f6dc734125f1e41479659"
+  },
+  "foodcraft:item/itemciba": {
+    "resource": "assets/foodcraft/textures/item/itemciba.png",
+    "sha256": "664182bee2d7a5d390c79ec54f2f30b74b4a5822abc2befee69fda8bf2655c6e"
+  },
+  "foodcraft:item/itemcong": {
+    "resource": "assets/foodcraft/textures/item/itemcong.png",
+    "sha256": "50ec47d1d978152efdff078f5b3115bcc2404af2fc1c2d2ca40f1db90cb8e510"
+  },
+  "foodcraft:item/itemcongyouji": {
+    "resource": "assets/foodcraft/textures/item/itemcongyouji.png",
+    "sha256": "4ac7b93b533e25709904f0fbc0922a4524f88791486d099be7b973405fd7567f"
+  },
+  "foodcraft:item/itemdajirou": {
+    "resource": "assets/foodcraft/textures/item/itemdajirou.png",
+    "sha256": "a9bb3f889fd0798194a079976d5509fdc1b4fa3eb39e29b69e4d27694a1c7c92"
+  },
+  "foodcraft:item/itemdami": {
+    "resource": "assets/foodcraft/textures/item/itemdami.png",
+    "sha256": "49335f6cffbe8d0355e45ded77b96dd9a2cae8a6757babe8ea751bf3f41adb6c"
+  },
+  "foodcraft:item/itemdangeng": {
+    "resource": "assets/foodcraft/textures/item/itemdangeng.png",
+    "sha256": "4c65a5dac9888d61d6e3fa63d2311b75450db30b25fdf35026710ba0a15153c5"
+  },
+  "foodcraft:item/itemdisanxian": {
+    "resource": "assets/foodcraft/textures/item/itemdisanxian.png",
+    "sha256": "ba755a96cfb376be1512548674e5c8be0adc94f86662f433b779bf80d7210fa4"
+  },
+  "foodcraft:item/itemdoujiang": {
+    "resource": "assets/foodcraft/textures/item/itemdoujiang.png",
+    "sha256": "761da5c755b9c4a46e2b6b0d98b0bb73a4978e318579eac536e2a2a59bcc5f6e"
+  },
+  "foodcraft:item/itemdounai": {
+    "resource": "assets/foodcraft/textures/item/itemdounai.png",
+    "sha256": "1619de3c208a1117eac1c626346967cb868b44d09700cdede0a86bcd1c7eaedc"
+  },
+  "foodcraft:item/itemdouzi": {
+    "resource": "assets/foodcraft/textures/item/itemdouzi.png",
+    "sha256": "647688c2f32768773b100f565d7a7409fc9637af1d071f000ece83c9826dd9fd"
+  },
+  "foodcraft:item/itemduojiaoyutou": {
+    "resource": "assets/foodcraft/textures/item/itemduojiaoyutou.png",
+    "sha256": "18a34dd5f172c16737b1c68422990b1246959113c6476ecc66d065b004b73ab7"
+  },
+  "foodcraft:item/itemfan": {
+    "resource": "assets/foodcraft/textures/item/itemfan.png",
+    "sha256": "8abe7c0b412ff61272d5739de62eca08d42eb82d4c29c9b67807eca1c004edd2"
+  },
+  "foodcraft:item/itemfanqie": {
+    "resource": "assets/foodcraft/textures/item/itemfanqie.png",
+    "sha256": "b283a8be1c20cae95afd70dce36ac69a4c08741d33161ee93e44ebad58c1d2c9"
+  },
+  "foodcraft:item/itemfanqiechaojidanfan": {
+    "resource": "assets/foodcraft/textures/item/itemfanqiechaojidanfan.png",
+    "sha256": "d70cd656e59cc5188fdf3f13be45a77b30592bbe5ee1de841a216161ccb8d73a"
+  },
+  "foodcraft:item/itemgalijiroufan": {
+    "resource": "assets/foodcraft/textures/item/itemgalijiroufan.png",
+    "sha256": "99cd6eaee8ff30f6c50400b822b51c79382dd4a3ceacac7a7125144b31edf3c2"
+  },
+  "foodcraft:item/itemgongbaojiding": {
+    "resource": "assets/foodcraft/textures/item/itemgongbaojiding.png",
+    "sha256": "e4d1e0423ef8c3685b0a9355aabee1a9c723eef87771a451a3bbf69345363f6d"
+  },
+  "foodcraft:item/itemguoqiaomixian": {
+    "resource": "assets/foodcraft/textures/item/itemguoqiaomixian.png",
+    "sha256": "3d86828f5b7bbd2a0f4c9612f8c9095838c9aa27ba79d23855995d7c0b75e3be"
+  },
+  "foodcraft:item/itemhanbaobao": {
+    "resource": "assets/foodcraft/textures/item/itemhanbaobao.png",
+    "sha256": "fbc961924bdbfbb7f8d690432976eb7efb8b2e2e436e5c044c725399388e49e3"
+  },
+  "foodcraft:item/itemhetaosu": {
+    "resource": "assets/foodcraft/textures/item/itemhetaosu.png",
+    "sha256": "880295c93a4e7a664079d87c1e36ec26cc1089f6ffb77ff727c8302bd389e0f9"
+  },
+  "foodcraft:item/itemhongdou": {
+    "resource": "assets/foodcraft/textures/item/itemhongdou.png",
+    "sha256": "579bc21872a0d21e1418ceff702d84462c0d9ef2663bf2807369bcafa250d281"
+  },
+  "foodcraft:item/itemhongjiu": {
+    "resource": "assets/foodcraft/textures/item/itemhongjiu.png",
+    "sha256": "8cca1edfed162544754d3703f1b55eaa34e006aa2fde4cbfd1e18da5f16f5282"
+  },
+  "foodcraft:item/itemhongshaoroufan": {
+    "resource": "assets/foodcraft/textures/item/itemhongshaoroufan.png",
+    "sha256": "a6c8b9f8043859a23f46c828e27a75232fa01e1427831afd229d2bb5a9fd1172"
+  },
+  "foodcraft:item/itemhongshu": {
+    "resource": "assets/foodcraft/textures/item/itemhongshu.png",
+    "sha256": "a0f09526dafd340b6159a930dff2cd0ba43f956bc11f5fb724fac29f71b12282"
+  },
+  "foodcraft:item/itemhongzao": {
+    "resource": "assets/foodcraft/textures/item/itemhongzao.png",
+    "sha256": "10a9a92c5f2c407ea1dfd361dba11e7b03239cdeea1811ed7ef2f78b81865adf"
+  },
+  "foodcraft:item/itemhuanggua": {
+    "resource": "assets/foodcraft/textures/item/itemhuanggua.png",
+    "sha256": "804b7f700f50705e94635bb009bd6fe4e7affb26cb20f951bac67004d6ea9f6e"
+  },
+  "foodcraft:item/itemhuashen": {
+    "resource": "assets/foodcraft/textures/item/itemhuashen.png",
+    "sha256": "dacd098a2e138561283bf6314ef219d4fd323682f416b59c4711ab29e9d73440"
+  },
+  "foodcraft:item/itemhuashenyou": {
+    "resource": "assets/foodcraft/textures/item/itemhuashenyou.png",
+    "sha256": "2b0c8ce69efbe9e136fb1d83c4654080158613555ec3dc5849efb05cd900d38c"
+  },
+  "foodcraft:item/itemhuiguoroufan": {
+    "resource": "assets/foodcraft/textures/item/itemhuiguoroufan.png",
+    "sha256": "4a18ffc72652dbfd2059cf9fa73a126acc09260a5e15880b341abe4082e776c2"
+  },
+  "foodcraft:item/itemhuluobozhi": {
+    "resource": "assets/foodcraft/textures/item/itemhuluobozhi.png",
+    "sha256": "fbeebc828c5b2314bb168f1e0088be27ad894390e97e96b7e4fc886f4e3e8fe5"
+  },
+  "foodcraft:item/itemjianjiao0": {
+    "resource": "assets/foodcraft/textures/item/itemjianjiao0.png",
+    "sha256": "fae57a88b61504f697187f055913e518a53683f87a7d26ea3a6b06d2aa42c28b"
+  },
+  "foodcraft:item/itemjiaozi": {
+    "resource": "assets/foodcraft/textures/item/itemjiaozi.png",
+    "sha256": "b779e15d80b6f6e0c59d6fecd0bf598b9934539e6f5f155df4a10f77ac76ce9d"
+  },
+  "foodcraft:item/itemjichi": {
+    "resource": "assets/foodcraft/textures/item/itemjichi.png",
+    "sha256": "368370b1e3e9e892d772c163b71d11043c338f1564c66505b7b824861e011a72"
+  },
+  "foodcraft:item/itemjikuai": {
+    "resource": "assets/foodcraft/textures/item/itemjikuai.png",
+    "sha256": "a276e2ce9d9c4a06ec65417fa344446d257d9ce4374e5a99688e140efe429107"
+  },
+  "foodcraft:item/itemjimihua": {
+    "resource": "assets/foodcraft/textures/item/itemjimihua.png",
+    "sha256": "8d79aba466ac3971b7746dda335dca33a0f60777b9423a1c3d84053f0b21aa45"
+  },
+  "foodcraft:item/itemjinghuashuitong": {
+    "resource": "assets/foodcraft/textures/item/itemjinghuashuitong.png",
+    "sha256": "c98d2ac95397150fe6252f1cae5768d0aaae04e244f8ede86a799196e9269843"
+  },
+  "foodcraft:item/itemjinkela": {
+    "resource": "assets/foodcraft/textures/item/itemjinkela.png",
+    "sha256": "8d6105680ed6f2910dc32b67083c065378d877edc82e19f8c8e42658fe429b26"
+  },
+  "foodcraft:item/itemjinpingguojiu": {
+    "resource": "assets/foodcraft/textures/item/itemjinpingguojiu.png",
+    "sha256": "b619fa53b3027a081eea7ce28e1c66acc975c44f8a82a2f3c291fd3631a95c61"
+  },
+  "foodcraft:item/itemjinputao": {
+    "resource": "assets/foodcraft/textures/item/itemjinputao.png",
+    "sha256": "cf88efb7c5ef5f0bc92983d359d9feb3aae4950102546aad5e7cae8e334f490c"
+  },
+  "foodcraft:item/itemjinputaobg": {
+    "resource": "assets/foodcraft/textures/item/itemjinputaobg.png",
+    "sha256": "5a294ad625d955f6512020ff5fac8c9a716197a85e4388e6e1260d9b2a55d0a4"
+  },
+  "foodcraft:item/itemjinputaodg": {
+    "resource": "assets/foodcraft/textures/item/itemjinputaodg.png",
+    "sha256": "5d9a1b1c82eae767364fc4e0856cd88f80852927b03153607ff54ea64aea127b"
+  },
+  "foodcraft:item/itemjinputaogj": {
+    "resource": "assets/foodcraft/textures/item/itemjinputaogj.png",
+    "sha256": "61afd31f6d62e4618c471a1a6db74eb331414e280cd71ae9d9a1003f1fdf6512"
+  },
+  "foodcraft:item/itemjinputaojiu": {
+    "resource": "assets/foodcraft/textures/item/itemjinputaojiu.png",
+    "sha256": "d4243c3f8661587b84b38e31b89264edcd051bf06dc2f34bbc9d652cf4eb0e77"
+  },
+  "foodcraft:item/itemjitui": {
+    "resource": "assets/foodcraft/textures/item/itemjitui.png",
+    "sha256": "b37b16259ea3be1b209adf6bb98fa72ce0d41f4523b7da50440e3d90e380e4f5"
+  },
+  "foodcraft:item/itemjuzi": {
+    "resource": "assets/foodcraft/textures/item/itemjuzi.png",
+    "sha256": "d37866742667cbe6619512cee5f875efc7e97935343dfbcaa663177a7d226e79"
+  },
+  "foodcraft:item/itemjuzibg": {
+    "resource": "assets/foodcraft/textures/item/itemjuzibg.png",
+    "sha256": "fc259b34323e262f0672d6f55b74e4aa4202885a0421893e76c7b98984a30749"
+  },
+  "foodcraft:item/itemjuzidg": {
+    "resource": "assets/foodcraft/textures/item/itemjuzidg.png",
+    "sha256": "b609a17d3ab5893283f55cbfd95f060f6192255f0d6dbdaa68c43c5cab01e5dc"
+  },
+  "foodcraft:item/itemjuzigj": {
+    "resource": "assets/foodcraft/textures/item/itemjuzigj.png",
+    "sha256": "7fad418097a03a0f6dfea1f2b2ddd4cc730774dea926d8efe453fe08bc719c80"
+  },
+  "foodcraft:item/itemjuzizhi": {
+    "resource": "assets/foodcraft/textures/item/itemjuzizhi.png",
+    "sha256": "3994c6f72db27c26361c0cc6fc6d88d5d386ec0634728f9525bf12029618aa24"
+  },
+  "foodcraft:item/itemjuzizhiice": {
+    "resource": "assets/foodcraft/textures/item/itemjuzizhiice.png",
+    "sha256": "da03d6d6e35841cc48b504f6c8e8b709eee9fb7ba7a3219497fad42627bbad9d"
+  },
+  "foodcraft:item/itemkafei": {
+    "resource": "assets/foodcraft/textures/item/itemkafei.png",
+    "sha256": "5e1b80934f48d05f05d42011f08234d9fa1855b4ccb822a0225bd91ac6d47074"
+  },
+  "foodcraft:item/itemkaohongshu": {
+    "resource": "assets/foodcraft/textures/item/itemkaohongshu.png",
+    "sha256": "d184f491a46573a4ecb657b56d5d950ad80d3f05a800917677348ff5cd9f5fe9"
+  },
+  "foodcraft:item/itemkaoyumi": {
+    "resource": "assets/foodcraft/textures/item/itemkaoyumi.png",
+    "sha256": "866c011b2db605dc13e01779d51de1d994f7c2720fda915f27100a2b2c645459"
+  },
+  "foodcraft:item/itemkelejichifan": {
+    "resource": "assets/foodcraft/textures/item/itemkelejichifan.png",
+    "sha256": "09403910067081709c7ea180732abfe09df7d9347370443d7a4b7bb66eb8f1eb"
+  },
+  "foodcraft:item/itemkoushuiji": {
+    "resource": "assets/foodcraft/textures/item/itemkoushuiji.png",
+    "sha256": "8e0aad1f156c09d00b4392bbfe2fa70b04d2235de5e3ee48817a478911043267"
+  },
+  "foodcraft:item/itemlabazhou": {
+    "resource": "assets/foodcraft/textures/item/itemlabazhou.png",
+    "sha256": "9bc7592781a5ec3c9d1407b1dfc454617f83ed5178bbc3d471c52b6f36546706"
+  },
+  "foodcraft:item/itemlajiao": {
+    "resource": "assets/foodcraft/textures/item/itemlajiao.png",
+    "sha256": "ffe0e35835d0c07e1c5f3613a0b9adb495b5aa28b55e15b77102ce380a49760b"
+  },
+  "foodcraft:item/itembing": {
+    "resource": "assets/foodcraft/textures/item/itembing.png",
+    "sha256": "e1d9c2ee16fbbc6db4a068c648b44047905b96068b26541ad5e5b7410a262a1e"
+  },
+  "foodcraft:item/itemlatiao": {
+    "resource": "assets/foodcraft/textures/item/itemlatiao.png",
+    "sha256": "42d6c758d452a2af2636b662a5eccc7c7136b462189b62f875ad8ed93ce0f6b8"
+  },
+  "foodcraft:item/itemlaziji": {
+    "resource": "assets/foodcraft/textures/item/itemlaziji.png",
+    "sha256": "64337d7f4df9dee709172366d9aa13b4b1edaeb707b622eb720035672529d4fc"
+  },
+  "foodcraft:item/itemli": {
+    "resource": "assets/foodcraft/textures/item/itemli.png",
+    "sha256": "8f7df7e91a92358affb377649598cb93792b5c912e6475d3132032d64e0e3f37"
+  },
+  "foodcraft:item/itemlibg": {
+    "resource": "assets/foodcraft/textures/item/itemlibg.png",
+    "sha256": "d8aafdf815df004aad6ce277781506dffcb759f3cdbd683857772f4c0f90729e"
+  },
+  "foodcraft:item/itemlidg": {
+    "resource": "assets/foodcraft/textures/item/itemlidg.png",
+    "sha256": "f350d4dadd5aa4f4354871ee7a9549933fd89b62f6fd61e6c748f46c1f3718de"
+  },
+  "foodcraft:item/itemligj": {
+    "resource": "assets/foodcraft/textures/item/itemligj.png",
+    "sha256": "e5a96f3418cfbace46082e36eacf292d83f74fd660f45ebfdbd30ee0da7cdd41"
+  },
+  "foodcraft:item/itemlizhi": {
+    "resource": "assets/foodcraft/textures/item/itemlizhi.png",
+    "sha256": "7bdfd7a82480123c2a17404dc628d772d276393d7de5eda6513703587e62baa9"
+  },
+  "foodcraft:item/itemlizhijiu": {
+    "resource": "assets/foodcraft/textures/item/itemlizhijiu.png",
+    "sha256": "123b464a8d9a05ddba8615824b4dd92cdba543d033c3a741835756c2c664317d"
+  },
+  "foodcraft:item/itemlizhizhi": {
+    "resource": "assets/foodcraft/textures/item/itemlizhizhi.png",
+    "sha256": "c7304ef5da16e1447af989a343e0607f6800a24999e70ed2126940a15f068e25"
+  },
+  "foodcraft:item/itemlizijiu": {
+    "resource": "assets/foodcraft/textures/item/itemlizijiu.png",
+    "sha256": "35d09b15fad34a73d8b5a3b865250eab0d14364638ebf564ac6ad3bfcde6cf86"
+  },
+  "foodcraft:item/itemlizizhi": {
+    "resource": "assets/foodcraft/textures/item/itemlizizhi.png",
+    "sha256": "ee6cbbb1050aba6106e92b824ba2dbe968023aeea5e2e3f5485c23e3fb454faa"
+  },
+  "foodcraft:item/itemlongyan": {
+    "resource": "assets/foodcraft/textures/item/itemlongyan.png",
+    "sha256": "f5be9b5ba6283cd374878f7e2f40281804ae4343d3fd841ee5d51423c87ce2f2"
+  },
+  "foodcraft:item/itemlvdou": {
+    "resource": "assets/foodcraft/textures/item/itemlvdou.png",
+    "sha256": "adb62e0689dcbcf21c19f7e878aa6bb22e62dce606e43e4f0a2387f324f2cf1d"
+  },
+  "foodcraft:item/itemmalayu": {
+    "resource": "assets/foodcraft/textures/item/itemmalayu.png",
+    "sha256": "ee199a4c582546805a47efb06d78b19b55833b5c8a9d7d35e50c67fa0b1ad832"
+  },
+  "foodcraft:item/itemmangguo": {
+    "resource": "assets/foodcraft/textures/item/itemmangguo.png",
+    "sha256": "09814c9cecec743632a0994e58b50e643258022c09dba007cd7ffd901ed9539d"
+  },
+  "foodcraft:item/itemmangguojiu": {
+    "resource": "assets/foodcraft/textures/item/itemmangguojiu.png",
+    "sha256": "299bb1e63d82fb951c5c016db0a1602fb6b4aee30d4410210ae2056dc2aaf0f0"
+  },
+  "foodcraft:item/itemmangguozhi": {
+    "resource": "assets/foodcraft/textures/item/itemmangguozhi.png",
+    "sha256": "f0d8aaaf07cc14a4ba38411a87d441b257b6fc1455936f9243a125f22f3e7e59"
+  },
+  "foodcraft:item/itemmangguozhiice": {
+    "resource": "assets/foodcraft/textures/item/itemmangguozhiice.png",
+    "sha256": "4aebe268b27832df92680b67649d56f8deee61132c44fe128b577b9aa7220402"
+  },
+  "foodcraft:item/itemmantou": {
+    "resource": "assets/foodcraft/textures/item/itemmantou.png",
+    "sha256": "283712f768e2863ff716b5f79c738a48db775b9a617859bf9d4587e2a094edd2"
+  },
+  "foodcraft:item/itemmapodoufufan": {
+    "resource": "assets/foodcraft/textures/item/itemmapodoufufan.png",
+    "sha256": "5b8f919d9bcdd73fc433b12dcf63f9780a3dd04be6cd0339edc44610add8c737"
+  },
+  "foodcraft:item/itemmian": {
+    "resource": "assets/foodcraft/textures/item/itemmian.png",
+    "sha256": "91c5334e666a847dfac521c8ae8f30d03990c8add9003724de7e91101956984d"
+  },
+  "foodcraft:item/itemmianfen": {
+    "resource": "assets/foodcraft/textures/item/itemmianfen.png",
+    "sha256": "644dad821e7f74b6380f10e76ba2e2b890a135005f96132ce5c807f94698db90"
+  },
+  "foodcraft:item/itemmgdjt": {
+    "resource": "assets/foodcraft/textures/item/itemmgdjt.png",
+    "sha256": "d2be5014cef081b4edb61e69914a1433b8d4fb5b7b84ca8246c8ab64e6849fa5"
+  },
+  "foodcraft:item/itemmugua": {
+    "resource": "assets/foodcraft/textures/item/itemmugua.png",
+    "sha256": "bfbd1eaff6b92d255bdf0a149aba4d39fcd4e44707a2b28caac10077a0797fb5"
+  },
+  "foodcraft:item/itemmuguazhi": {
+    "resource": "assets/foodcraft/textures/item/itemmuguazhi.png",
+    "sha256": "7e135e3feeb080b9419885d2d4856a77f884894fd98bebdeb928dd918fdd547b"
+  },
+  "foodcraft:item/itemnaicha": {
+    "resource": "assets/foodcraft/textures/item/itemnaicha.png",
+    "sha256": "056ad65978380171352e7c661ec9e6851bf47ad7c7c50ac3dfc4c36efc6e94fe"
+  },
+  "foodcraft:item/itemniangao": {
+    "resource": "assets/foodcraft/textures/item/itemniangao.png",
+    "sha256": "a5105a32ff56b13391a6e9bcc107a0664444c1cd01aa6145b218eb4a3fe0d432"
+  },
+  "foodcraft:item/itemningmeng": {
+    "resource": "assets/foodcraft/textures/item/itemningmeng.png",
+    "sha256": "8a47259b73954b24d5ca046da2b9fe52b0cc716a1e756f482a7a2c546a74e8ac"
+  },
+  "foodcraft:item/itemningmengbg": {
+    "resource": "assets/foodcraft/textures/item/itemningmengbg.png",
+    "sha256": "8f96c5ab322809f7fa1d2df3fa07ef10f380e7b8cb905d7f5f5cea0824f96cf0"
+  },
+  "foodcraft:item/itemningmengdg": {
+    "resource": "assets/foodcraft/textures/item/itemningmengdg.png",
+    "sha256": "7de86074ae3fba09b35b9e11e3c842ed824a79cdf68b41346b85d5e2148249ca"
+  },
+  "foodcraft:item/itemningmenggj": {
+    "resource": "assets/foodcraft/textures/item/itemningmenggj.png",
+    "sha256": "15e73cf11f92489b0c65357cb23a91c8c957724ab57fd4c96e6626b1da7110b0"
+  },
+  "foodcraft:item/itemningmengjiu": {
+    "resource": "assets/foodcraft/textures/item/itemningmengjiu.png",
+    "sha256": "ed8328bb92db50244df8fc22d3cdc6b27008f8bed6893d41650d548c649ea775"
+  },
+  "foodcraft:item/itemningmengzhi": {
+    "resource": "assets/foodcraft/textures/item/itemningmengzhi.png",
+    "sha256": "eb19d21a508d934333a8fa3b189ad124ea50299da71197e41489ab2dc0138280"
+  },
+  "foodcraft:item/itemningmengzhiice": {
+    "resource": "assets/foodcraft/textures/item/itemningmengzhiice.png",
+    "sha256": "41f332e46c58a11fc7c5269e235aacd6f2d26a0a523984ca2a92c013f5fa2747"
+  },
+  "foodcraft:item/itemnuomi": {
+    "resource": "assets/foodcraft/textures/item/itemnuomi.png",
+    "sha256": "801c7498ee4fd8f8503e58edb2b8a1f119d8428d5e2e77d190540b242aebedcc"
+  },
+  "foodcraft:item/itempidanshourouzhou": {
+    "resource": "assets/foodcraft/textures/item/itempidanshourouzhou.png",
+    "sha256": "613d4a251954961db569b9877763eed6cb1e80d19580183c328f26fc486b0bab"
+  },
+  "foodcraft:item/itempingguojiu": {
+    "resource": "assets/foodcraft/textures/item/itempingguojiu.png",
+    "sha256": "7897b1b8cc914c82c127be578143cc65accb8c0e2f4b05a87db78fbd9470db5a"
+  },
+  "foodcraft:item/itempingguozhi": {
+    "resource": "assets/foodcraft/textures/item/itempingguozhi.png",
+    "sha256": "2dc061a646ccd7db174359de1a346c6767a457fa7662246c754be411815a1e51"
+  },
+  "foodcraft:item/itempingguozhiice": {
+    "resource": "assets/foodcraft/textures/item/itempingguozhiice.png",
+    "sha256": "696d472230b9e25b793ddad59a70ec10e55b6e4cb0b21e827bf8a75158ff8638"
+  },
+  "foodcraft:item/itempipa": {
+    "resource": "assets/foodcraft/textures/item/itempipa.png",
+    "sha256": "686278a8897e0701cffb1300e9b990e929f20b6fa0d0bbf264c6cfb03b314486"
+  },
+  "foodcraft:item/itempisa": {
+    "resource": "assets/foodcraft/textures/item/itempisa.png",
+    "sha256": "6ec8842273d6c7d1d5899e486bafd2aa776a817b0f8cb1e17d9bc989443d95ae"
+  },
+  "foodcraft:item/itemputao": {
+    "resource": "assets/foodcraft/textures/item/itemputao.png",
+    "sha256": "73e2bebcf0f6a60b0d21243439b21cace183f9d0da8628bc9e0c695d02c8c956"
+  },
+  "foodcraft:item/itemputaobg": {
+    "resource": "assets/foodcraft/textures/item/itemputaobg.png",
+    "sha256": "7e0aeb35fb82587bd547697534fde07fc0da30de3ed6441bdba018b7afc812e3"
+  },
+  "foodcraft:item/itemputaodg": {
+    "resource": "assets/foodcraft/textures/item/itemputaodg.png",
+    "sha256": "55503a3bedd8465fcf9818b5fbd46d76b92dddb049968f931dc4aca6538a61a1"
+  },
+  "foodcraft:item/itemputaogj": {
+    "resource": "assets/foodcraft/textures/item/itemputaogj.png",
+    "sha256": "39ac44535eaa34b126c4ade1ea4de1482127e1b70b1cbbce80832517e6024537"
+  },
+  "foodcraft:item/itemputaojiu": {
+    "resource": "assets/foodcraft/textures/item/itemputaojiu.png",
+    "sha256": "fd897a06b01648511c52ede1b9c8b086210851e40381ca56020c57ee85f3d4b8"
+  },
+  "foodcraft:item/itemputaozhi": {
+    "resource": "assets/foodcraft/textures/item/itemputaozhi.png",
+    "sha256": "d185a11955840f1a8078e98039b3847871213a0a333f79775fff4bf46a427dc2"
+  },
+  "foodcraft:item/itemputaozhiice": {
+    "resource": "assets/foodcraft/textures/item/itemputaozhiice.png",
+    "sha256": "20e226d27b63b294dd1192a272d5a9897b605453acac5dab2574a43b883d9a35"
+  },
+  "foodcraft:item/itemqiaokeli": {
+    "resource": "assets/foodcraft/textures/item/itemqiaokeli.png",
+    "sha256": "5b91894b67e140a600f58060a5a0749b549050029c3816ca0f32544f0f3975d4"
+  },
+  "foodcraft:item/itemqiaokelinai": {
+    "resource": "assets/foodcraft/textures/item/itemqiaokelinai.png",
+    "sha256": "6c138cd0339429cc4b9374288b02c350c03f4649f998f64a38e9bcb833acd298"
+  },
+  "foodcraft:item/itemqiezi": {
+    "resource": "assets/foodcraft/textures/item/itemqiezi.png",
+    "sha256": "71abd45987e2509c4ed4d2f3c88c1eaf1cfed334ee820a00e1d07c2d79e2852a"
+  },
+  "foodcraft:item/itemqingjiao": {
+    "resource": "assets/foodcraft/textures/item/itemqingjiao.png",
+    "sha256": "d774d4f34e5cf132239d9f8c83410cfff7474b753525236aeeed950931613c33"
+  },
+  "foodcraft:item/itemqingzhenyu": {
+    "resource": "assets/foodcraft/textures/item/itemqingzhenyu.png",
+    "sha256": "a6d60baefa3d2fe9a945a77ca8a947a7180075351925b5c5c3728ab22c18a734"
+  },
+  "foodcraft:item/itemregou": {
+    "resource": "assets/foodcraft/textures/item/itemregou.png",
+    "sha256": "1aaf63485ff8d4c383a4f8421fde8227a4245f867cb4817431d7662551c1d539"
+  },
+  "foodcraft:item/itemribendoufu": {
+    "resource": "assets/foodcraft/textures/item/itemribendoufu.png",
+    "sha256": "4472bebcff2ec236554bb5883ea9f6b0fa73728cf86f42add4222ad7b3250015"
+  },
+  "foodcraft:item/itemshanzha": {
+    "resource": "assets/foodcraft/textures/item/itemshanzha.png",
+    "sha256": "4bfdcd092e1afb8d55ff4045ed9ae41102f037b2a50de3cbf909ba044f53d8a1"
+  },
+  "foodcraft:item/itemshiliu": {
+    "resource": "assets/foodcraft/textures/item/itemshiliu.png",
+    "sha256": "dfe4ebb98185b726766ca6051b00375603f9596f5267cd32bfe266046095ecd9"
+  },
+  "foodcraft:item/itemshiliujiu": {
+    "resource": "assets/foodcraft/textures/item/itemshiliujiu.png",
+    "sha256": "ac44eee97ad59d45b04fa1d39bd133774b4a9e169b01b6293408faaaf20edb7d"
+  },
+  "foodcraft:item/itemshiliuzhi": {
+    "resource": "assets/foodcraft/textures/item/itemshiliuzhi.png",
+    "sha256": "e1a0f285de3a4712736346c539828801456d9efe783ff3dfa4963be8070ead84"
+  },
+  "foodcraft:item/itemshizi": {
+    "resource": "assets/foodcraft/textures/item/itemshizi.png",
+    "sha256": "c13977e3729cd5a102f77b13d6af4bb018804a828c56b469fafc12f8066d7337"
+  },
+  "foodcraft:item/itemshucai": {
+    "resource": "assets/foodcraft/textures/item/itemshucai.png",
+    "sha256": "02918fd115e326dc43c32f174b340de79e58c01c5d0f3a956ecb9a4a3626c915"
+  },
+  "foodcraft:item/itemshuizhuniurou": {
+    "resource": "assets/foodcraft/textures/item/itemshuizhuniurou.png",
+    "sha256": "745eb66e8508f57380dd9d28e6d80bb24e51f9b8eacb7e90e740b65528e146b0"
+  },
+  "foodcraft:item/itemshupian": {
+    "resource": "assets/foodcraft/textures/item/itemshupian.png",
+    "sha256": "78e7052fb9855f3fbc8cfc91fbfaf83b8dda1ab22f2ffb22a24587428dc86c02"
+  },
+  "foodcraft:item/itemshutiao": {
+    "resource": "assets/foodcraft/textures/item/itemshutiao.png",
+    "sha256": "6f55575c9e3ceb7c09c01b41b79e02462b925daeaacc99a00a2dc1fc42221633"
+  },
+  "foodcraft:item/itemsuancaibing": {
+    "resource": "assets/foodcraft/textures/item/itemsuancaibing.png",
+    "sha256": "ef1c04024e03a67cc3ac827dddcdb3809f20c790fe9c75391454f9eec63ee1ff"
+  },
+  "foodcraft:item/itemsuancaiyu": {
+    "resource": "assets/foodcraft/textures/item/itemsuancaiyu.png",
+    "sha256": "48834792774bf588f4ee02cd72f9960995b368d95a865093b9d1f3ce177cf4da"
+  },
+  "foodcraft:item/itemtangyuan": {
+    "resource": "assets/foodcraft/textures/item/itemtangyuan.png",
+    "sha256": "f1942433d48e2e2fd7136ea719b07c0b223589aa55ed45dd1865988ac837c40a"
+  },
+  "foodcraft:item/itemtaozi": {
+    "resource": "assets/foodcraft/textures/item/itemtaozi.png",
+    "sha256": "205304c2532a496ed350861e17c87a62bb703a6737ef243a56bc699cdb5564bd"
+  },
+  "foodcraft:item/itemtaozibg": {
+    "resource": "assets/foodcraft/textures/item/itemtaozibg.png",
+    "sha256": "89debb90dd02579e157243090a0a0caa1e1620f1369076752db00722298f1d22"
+  },
+  "foodcraft:item/itemtaozidg": {
+    "resource": "assets/foodcraft/textures/item/itemtaozidg.png",
+    "sha256": "3bdd19c6b3738e9851941e205f2cde1079284cc3749e787dde8cd007e68cb6de"
+  },
+  "foodcraft:item/itemtaozigj": {
+    "resource": "assets/foodcraft/textures/item/itemtaozigj.png",
+    "sha256": "db37626d0aac93594cdae89ac8db9d4db38e9992ba1dd2dab3e7c4edaeb519e1"
+  },
+  "foodcraft:item/itemtaozijiu": {
+    "resource": "assets/foodcraft/textures/item/itemtaozijiu.png",
+    "sha256": "5ceffadf47f9306c77ddce2174a5f4eb77677dbef2623b5f8df1de7f24891793"
+  },
+  "foodcraft:item/itemtaozizhi": {
+    "resource": "assets/foodcraft/textures/item/itemtaozizhi.png",
+    "sha256": "58b75b2913f84bbc96c24674457ee9741fdba6ad40c77d7559f87bab6b4f5475"
+  },
+  "foodcraft:item/itemtaozizhiice": {
+    "resource": "assets/foodcraft/textures/item/itemtaozizhiice.png",
+    "sha256": "c11e1c2ba096cb904da789421087751a2ee33c47045bad9473eb40835f13237d"
+  },
+  "foodcraft:item/itemwater": {
+    "resource": "assets/foodcraft/textures/item/itemwater.png",
+    "sha256": "c21f15e9334f85dd96fc640db40e75e53367d42a1f410c9217e790058faef04d"
+  },
+  "foodcraft:item/itemwrench": {
+    "resource": "assets/foodcraft/textures/item/itemwrench.png",
+    "sha256": "d6e0e2a2060b674d14c9655b60987d1dc1366d4dc8c0f518a7959c85c970296b"
+  },
+  "foodcraft:item/itemxiangjiao": {
+    "resource": "assets/foodcraft/textures/item/itemxiangjiao.png",
+    "sha256": "06da82771feffa22e249c17f2e0691774b3f2caa9d0e5eedf8e148ad7e3a8d27"
+  },
+  "foodcraft:item/itemxiangjiaozhi": {
+    "resource": "assets/foodcraft/textures/item/itemxiangjiaozhi.png",
+    "sha256": "4870367414bb1e1033c383395565e10453fb76476119ea507c69658fb837e283"
+  },
+  "foodcraft:item/itemxiguazhi": {
+    "resource": "assets/foodcraft/textures/item/itemxiguazhi.png",
+    "sha256": "57af201847aae26bdbf61d3fcbd4e1f615c095bb2f174a8db3da7468aa72c6e9"
+  },
+  "foodcraft:item/itemyenai": {
+    "resource": "assets/foodcraft/textures/item/itemyenai.png",
+    "sha256": "049211459e1e07cb4690b8956747471abc1fe71559069e245ddebb4abee72e39"
+  },
+  "foodcraft:item/itemyezi": {
+    "resource": "assets/foodcraft/textures/item/itemyezi.png",
+    "sha256": "84ee26a9f2b89783dc7247a8af8c9030dc71f7280cdcbf904a8b7d8727d8b25d"
+  },
+  "foodcraft:item/itemyezibg": {
+    "resource": "assets/foodcraft/textures/item/itemyezibg.png",
+    "sha256": "1d9c76a1877980b392653a4da6792d54f64f45f1f32053638981e4a53b6e7cce"
+  },
+  "foodcraft:item/itemyezidg": {
+    "resource": "assets/foodcraft/textures/item/itemyezidg.png",
+    "sha256": "9a6ee871eb12f28e5ef07ab780824e5fa1b55ca474385e3c4c422c215bd74c91"
+  },
+  "foodcraft:item/itemyezigj": {
+    "resource": "assets/foodcraft/textures/item/itemyezigj.png",
+    "sha256": "e101745396ebea4cf78bdd4be3d328732aefd5e34e8816239b1f2f60d46c9526"
+  },
+  "foodcraft:item/itemyezizhi": {
+    "resource": "assets/foodcraft/textures/item/itemyezizhi.png",
+    "sha256": "afa987d68f065771e38a58092e4d02315ab91321dc5f4a4a7138a123319cb5e9"
+  },
+  "foodcraft:item/itemyezizhiice": {
+    "resource": "assets/foodcraft/textures/item/itemyezizhiice.png",
+    "sha256": "994226e2a26ddaeb3af3b78e62bd7ce502d72fcbf56fd6fc208c789feb0bfd92"
+  },
+  "foodcraft:item/itemyifen": {
+    "resource": "assets/foodcraft/textures/item/itemyifen.png",
+    "sha256": "0c714f0cc73183818e7ca4c1753617cc36206ce1375e7ce2419859e272e7d34d"
+  },
+  "foodcraft:item/itemyifenbeef": {
+    "resource": "assets/foodcraft/textures/item/itemyifenbeef.png",
+    "sha256": "d360f15d7a4e9e2c390c7b746762f57681c9ed8086cc9c06bacbd575e6840f55"
+  },
+  "foodcraft:item/itemyifenchicken": {
+    "resource": "assets/foodcraft/textures/item/itemyifenchicken.png",
+    "sha256": "601dace037c4e28202fb5e1af7fb5a2accd8e689526bcd51a26da1dfe044dd20"
+  },
+  "foodcraft:item/itemyifenpork": {
+    "resource": "assets/foodcraft/textures/item/itemyifenpork.png",
+    "sha256": "bc5b40848742aca35b2fd32399c1fa83325b63a30fa8c8d56435f8747108230f"
+  },
+  "foodcraft:item/itemyingtao": {
+    "resource": "assets/foodcraft/textures/item/itemyingtao.png",
+    "sha256": "369f0afcb5afc6d17f54870d019c8cad25b7cf33d17a6ef4683575430f0b2c11"
+  },
+  "foodcraft:item/itemyingtaozhi": {
+    "resource": "assets/foodcraft/textures/item/itemyingtaozhi.png",
+    "sha256": "14ccccc6dc2b3c63a37c9a65fab4605309edb462fe966b9d7f1b25bc276c2385"
+  },
+  "foodcraft:item/itemyoutiao": {
+    "resource": "assets/foodcraft/textures/item/itemyoutiao.png",
+    "sha256": "41d04bc37cc053d1996d17d0d39131b4d9f18c49027ac2df224f5889bbea5b76"
+  },
+  "foodcraft:item/itemyouzi": {
+    "resource": "assets/foodcraft/textures/item/itemyouzi.png",
+    "sha256": "4bb68572a84cde706cabca8879da6de012368e381f9497a63fc025c6ccaf85a7"
+  },
+  "foodcraft:item/itemyouzizhi": {
+    "resource": "assets/foodcraft/textures/item/itemyouzizhi.png",
+    "sha256": "54b59cc795283ba2ce00225a5b41621cbabe9bbcbdb96f72f993d251702d9774"
+  },
+  "foodcraft:item/itemyuebing": {
+    "resource": "assets/foodcraft/textures/item/itemyuebing.png",
+    "sha256": "87c182843ff1a28b37eb966318b2d108ccd2b07a47cda02048f24ff8f0266f72"
+  },
+  "foodcraft:item/itemyumi": {
+    "resource": "assets/foodcraft/textures/item/itemyumi.png",
+    "sha256": "7ef68324228adaeb04ef040647afe7c8eab76333d50c4254f98e64d87e17cba8"
+  },
+  "foodcraft:item/itemyuxiangrousi": {
+    "resource": "assets/foodcraft/textures/item/itemyuxiangrousi.png",
+    "sha256": "7bcb67321f523d15d4ef270ae93db996ead96170194793c135b4fabe759a7eba"
+  },
+  "foodcraft:item/itemzhachunjuan": {
+    "resource": "assets/foodcraft/textures/item/itemzhachunjuan.png",
+    "sha256": "85a4fb6b8839701e04ff3f72b174cb8f35b976557d0eadfd5eaf19b6d3b04834"
+  },
+  "foodcraft:item/itemzhadoufu": {
+    "resource": "assets/foodcraft/textures/item/itemzhadoufu.png",
+    "sha256": "7079c74e622cd85a5aa91fd925ea5318262853129c8a347bc0c2cfc1b031c8e9"
+  },
+  "foodcraft:item/itemzhajitui": {
+    "resource": "assets/foodcraft/textures/item/itemzhajitui.png",
+    "sha256": "397936d2b400cff22ec13ba91995d87e69b5bf1e654dfac9c5fc405759d88dd7"
+  },
+  "foodcraft:item/itemzhamahua": {
+    "resource": "assets/foodcraft/textures/item/itemzhamahua.png",
+    "sha256": "479fcd8fb62e40fe10848dfc1c56bfb6283e6e98391c871733ce741bcf69381d"
+  },
+  "foodcraft:item/itemzhaniangao": {
+    "resource": "assets/foodcraft/textures/item/itemzhaniangao.png",
+    "sha256": "24429db66241fe558b072e251f40adc294bee36ddbd62c4624e4359edab0e1ba"
+  },
+  "foodcraft:item/itemzhaxiangchang": {
+    "resource": "assets/foodcraft/textures/item/itemzhaxiangchang.png",
+    "sha256": "197b8198ac147ac714695ae895587956818e7ced7ecc61e0a11a421c887ec3a2"
+  },
+  "foodcraft:item/itemzongzi": {
+    "resource": "assets/foodcraft/textures/item/itemzongzi.png",
+    "sha256": "c02ad10fd5f95822aa9f4a96f1b4b8ed3eafe2cf69bbfbf6869f6a2d6fb29422"
+  },
+  "foodcraft:block/nmj_side": {
+    "resource": "assets/foodcraft/textures/block/nmj_side.png",
+    "sha256": "085d2d28e0f4f2d01d07fd11adad45473b3b4f7962030cfdb4fab7c2d38dfd71"
+  },
+  "foodcraft:block/nmj_top": {
+    "resource": "assets/foodcraft/textures/block/nmj_top.png",
+    "sha256": "ebc918ed5894ecfda1240b5ea3c116ee1d6ef4089e370792c716121f4092b88c"
+  },
+  "foodcraft:block/nmj_nmj_off": {
+    "resource": "assets/foodcraft/textures/block/nmj_nmj_off.png",
+    "sha256": "067e702ac528db888d44796e1b933cf8d90a27a1b2ea6d1785a5ff0996a54fba"
+  },
+  "foodcraft:block/caiban0": {
+    "resource": "assets/foodcraft/textures/block/caiban0.png",
+    "sha256": "260bccb96ff70ac9fa1f4d533ae122be7cc7dac50d566896bcaf6558a5242c0e"
+  },
+  "foodcraft:block/guo": {
+    "resource": "assets/foodcraft/textures/block/guo.png",
+    "sha256": "cd38ec088e4864cb622c6328c9bb2b01e732c090462b8f30b67174ddc6132b44"
+  },
+  "foodcraft:block/pdg": {
+    "resource": "assets/foodcraft/textures/block/pdg.png",
+    "sha256": "cf3fd225eebd4665fe0a9a794bf9e9868503ada85d1718bf25f4cfc6dc5d86f0"
+  },
+  "foodcraft:block/gyg": {
+    "resource": "assets/foodcraft/textures/block/gyg.png",
+    "sha256": "4338f3a8b984dbb52e0db6dbc083ba2ca7914c90b7428e6f08283a2d82e6d936"
+  },
+  "foodcraft:block/yzj_yzj_off": {
+    "resource": "assets/foodcraft/textures/block/yzj_yzj_off.png",
+    "sha256": "8eae527f93c06abe68db2d4b567efd2876ae424be506e77113551e3cfdaf7b2b"
+  },
+  "foodcraft:block/tpj_tpj_off": {
+    "resource": "assets/foodcraft/textures/block/tpj_tpj_off.png",
+    "sha256": "3a4eb8723e84e3c01c642f6ec177d7931c67d039c6b1192ab6ddb0e6e7b0cf1f"
+  },
+  "foodcraft:block/nt_side": {
+    "resource": "assets/foodcraft/textures/block/nt_side.png",
+    "sha256": "33358c3ddde4cb05879bd1888b893ee8d3869dddf51a4fccd28967234b09d0a4"
+  },
+  "minecraft:block/oak_planks": {
+    "resource": "assets/minecraft/textures/block/oak_planks.png",
+    "sha256": "3b00412fec87bd07b83825b86de49bcb6c186ca7799f41721a36b04e5d8ed161"
+  },
+  "foodcraft:block/zl_side": {
+    "resource": "assets/foodcraft/textures/block/zl_side.png",
+    "sha256": "115c4c1207580a2cc061cb49c922081e40e808ab36a514aa75ebf67955886473"
+  },
+  "foodcraft:block/zl_down": {
+    "resource": "assets/foodcraft/textures/block/zl_down.png",
+    "sha256": "1606e5a79be5028c97d56099b30905460698b9cab6382cace680d7a1d1d1ccc9"
+  },
+  "foodcraft:block/zl_top": {
+    "resource": "assets/foodcraft/textures/block/zl_top.png",
+    "sha256": "8b4e76fe4052e537d237771a001de7ce064c64f569d80664879a648a9e3afdd1"
+  },
+  "minecraft:item/cooked_chicken": {
+    "resource": "assets/minecraft/textures/item/cooked_chicken.png",
+    "sha256": "be65f5417b8efc08fb7e4b79afbb69546b88dd179a4b2417a94eadf19ef15a6c"
+  },
+  "minecraft:item/coal": {
+    "resource": "assets/minecraft/textures/item/coal.png",
+    "sha256": "1fc55287c9b4a151af132727a0178fb7eec857eaf23bba2aecd6ede1e106b108"
+  },
+  "minecraft:item/water_bucket": {
+    "resource": "assets/minecraft/textures/item/water_bucket.png",
+    "sha256": "6e69a3f9319fc09a946a5e688d4e76781e3b0aaf9d4984589a52226f6d6dba55"
+  },
+  "minecraft:item/wheat": {
+    "resource": "assets/minecraft/textures/item/wheat.png",
+    "sha256": "838cdc9c83ee91b4db431d8265255b0c6fe2c21f745b7e25a37d48a5bdf3f7a2"
+  },
+  "minecraft:item/sugar": {
+    "resource": "assets/minecraft/textures/item/sugar.png",
+    "sha256": "978323ef2f75967c503f533cd55fcac6a2733cb2c2f9d19857c6a49bb4a1c4c6"
+  },
+  "minecraft:item/snowball": {
+    "resource": "assets/minecraft/textures/item/snowball.png",
+    "sha256": "761b3a42fb22f7e2f2dfe17c2b7a79cf32a1febe5cf6b695e031897455e7d719"
+  },
+  "minecraft:item/cake": {
+    "resource": "assets/minecraft/textures/item/cake.png",
+    "sha256": "3e7b63ff06f70672bdae31a96599a2cb94131700d2836ee073551c80b940a60d"
+  },
+  "minecraft:block/ice": {
+    "resource": "assets/minecraft/textures/block/ice.png",
+    "sha256": "5714a0cf500bfdc7666ef8965779c171bb3ac23c6c7fe4bcf120f9e6cee07402"
+  },
+  "foodcraft:gui/container/caiban": {
+    "resource": "assets/foodcraft/textures/gui/container/caiban.png",
+    "sha256": "9d56c356cd0cf28d2ab813fcede48e043cd60b107492167b79d002ef2d8dacad"
+  },
+  "foodcraft:gui/container/guo": {
+    "resource": "assets/foodcraft/textures/gui/container/guo.png",
+    "sha256": "f79929aa2bd973df247df226f2e5fe94abcd03b1e1dcd37e2cfbfcc39a4a1a6d"
+  },
+  "foodcraft:gui/container/tpj": {
+    "resource": "assets/foodcraft/textures/gui/container/tpj.png",
+    "sha256": "db5f077d292fa8dfbe3160c8c88ba22ed75f32bd9550a45a33e2b3d494f0ced8"
+  },
+  "foodcraft:gui/container/gyg": {
+    "resource": "assets/foodcraft/textures/gui/container/gyg.png",
+    "sha256": "557d38d65e703fb03693d5a381b4fc218b427810ef5168ebfedd974df2f6ab2f"
+  }
+}
