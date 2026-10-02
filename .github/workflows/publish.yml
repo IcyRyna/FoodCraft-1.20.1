@@ -1,0 +1,131 @@
+name: Import recovered source and publish 2.0.0
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      FOODCRAFT_WORK_DIR: ${{ runner.temp }}/foodcraft-work
+    steps:
+      - name: Check out publication inputs
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+
+      - name: Verify inputs and restore source
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, pathlib, stat, zipfile
+          root = pathlib.Path.cwd().resolve()
+          expected = {
+              'foodcraft-1.20.1-forge-2.0.0.jar': 'c699efd327e4f0ed312db40519cc4c4725d4fde2feb7e1588dcfd74ca4d56f30',
+              'foodcraft-1.20.1-fabric-2.0.0.jar': 'a2484e3297599f7025952fd32fb9b58b805bc054bb6faecc11c50f5c10c6d7b6',
+          }
+          for line in (root/'SHA256SUMS.txt').read_text().splitlines():
+              digest, name = line.split(None, 1)
+              file = root/name.strip()
+              if file.parent != root or hashlib.sha256(file.read_bytes()).hexdigest() != digest:
+                  raise SystemExit('Input checksum mismatch: '+name)
+          for name, digest in expected.items():
+              if hashlib.sha256((root/name).read_bytes()).hexdigest() != digest:
+                  raise SystemExit('Golden release was changed: '+name)
+          source = root/'foodcraft-1.20.1-source-2.0.0.zip'
+          with zipfile.ZipFile(source) as archive:
+              if archive.testzip() is not None:
+                  raise SystemExit('Source ZIP CRC failure')
+              for item in archive.infolist():
+                  relative = pathlib.PurePosixPath(item.filename)
+                  if relative.is_absolute() or '..' in relative.parts or any(p in {'.git', '.github', 'work', '.gradle'} for p in relative.parts):
+                      raise SystemExit('Unsafe source archive path: '+item.filename)
+                  if stat.S_ISLNK(item.external_attr >> 16):
+                      raise SystemExit('Symlink source archive entry: '+item.filename)
+                  destination = (root/item.filename).resolve()
+                  if not destination.is_relative_to(root):
+                      raise SystemExit('Source path escapes checkout')
+                  if item.is_dir():
+                      destination.mkdir(parents=True, exist_ok=True)
+                  else:
+                      destination.parent.mkdir(parents=True, exist_ok=True)
+                      destination.write_bytes(archive.read(item))
+          (root/'gradlew').chmod(0o755)
+          print('Verified both golden JARs and restored the complete source archive.')
+          PY
+          python3 tools/check_content.py
+
+      - name: Install Microsoft JDK 17
+        uses: actions/setup-java@b6effb05e454b25005698d916606bdc6ffcbf961
+        with:
+          distribution: microsoft
+          java-version: '17.0.20'
+
+      - name: Run core tests and build both loaders
+        run: ./gradlew --no-daemon --write-verification-metadata sha256 :core:test :forge:build :fabric:build
+
+      - name: Compare recovered-source builds to the audited release
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, json, pathlib, zipfile
+          results = {}
+          for loader in ['forge', 'fabric']:
+              name = f'foodcraft-1.20.1-{loader}-2.0.0.jar'
+              golden = pathlib.Path(name)
+              built = pathlib.Path(loader)/'build/libs'/name
+              if not built.is_file():
+                  raise SystemExit('Missing built JAR: '+str(built))
+              with zipfile.ZipFile(golden) as before, zipfile.ZipFile(built) as after:
+                  names = set(before.namelist())-{'META-INF/MANIFEST.MF'}
+                  names = {n for n in names if not n.endswith('/')}
+                  missing = sorted(names-set(after.namelist()))
+                  different = sorted(n for n in names & set(after.namelist()) if before.read(n) != after.read(n))
+                  added_classes = sorted(n for n in set(after.namelist())-set(before.namelist()) if n.endswith('.class'))
+                  results[loader] = {
+                      'golden_sha256': hashlib.sha256(golden.read_bytes()).hexdigest(),
+                      'rebuilt_sha256': hashlib.sha256(built.read_bytes()).hexdigest(),
+                      'missing_entries': missing,
+                      'different_entries': different,
+                      'added_classes': added_classes,
+                  }
+          path = pathlib.Path('docs/PUBLICATION-REBUILD.json')
+          path.write_text(json.dumps(results, indent=2)+'\n')
+          print(json.dumps(results, indent=2))
+          if any(r['missing_entries'] or r['different_entries'] or r['added_classes'] for r in results.values()):
+              raise SystemExit('Recovered source does not yet reproduce all audited classes and resources; release stopped.')
+          PY
+
+      - name: Commit the verified complete source
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md NOTICE.md LICENSE .gitignore build.gradle settings.gradle gradle.properties build.ps1 verify.ps1 gradlew gradlew.bat gradle core common forge fabric tools docs examples
+          git rm --cached --ignore-unmatch foodcraft-1.20.1-source-2.0.0.zip foodcraft-1.20.1-forge-2.0.0.jar foodcraft-1.20.1-fabric-2.0.0.jar SHA256SUMS.txt RELEASE_NOTES.md
+          git commit -m 'Import verified FoodCraft 1.20.1 Forge and Fabric source'
+          git push origin HEAD:main
+
+      - name: Package source and publish the release
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import hashlib, pathlib, subprocess, zipfile
+          source = pathlib.Path('foodcraft-1.20.1-source-2.0.0.zip')
+          files = subprocess.check_output(['git', 'ls-files', '-z']).split(b'\0')
+          with zipfile.ZipFile(source, 'w', zipfile.ZIP_DEFLATED, compresslevel=9) as archive:
+              for raw in files:
+                  if raw:
+                      name = raw.decode()
+                      if pathlib.Path(name).is_file():
+                          archive.write(name, name)
+          lines = []
+          for name in ['foodcraft-1.20.1-forge-2.0.0.jar', 'foodcraft-1.20.1-fabric-2.0.0.jar', source.name]:
+              lines.append(hashlib.sha256(pathlib.Path(name).read_bytes()).hexdigest()+'  '+name)
+          pathlib.Path('SHA256SUMS.txt').write_text('\n'.join(lines)+'\n')
+          PY
+          gh release create v2.0.0 foodcraft-1.20.1-forge-2.0.0.jar foodcraft-1.20.1-fabric-2.0.0.jar foodcraft-1.20.1-source-2.0.0.zip SHA256SUMS.txt --target "$(git rev-parse HEAD)" --title 'FoodCraft 2.0.0 · Minecraft 1.20.1 Forge / Fabric' --notes-file RELEASE_NOTES.md --latest
