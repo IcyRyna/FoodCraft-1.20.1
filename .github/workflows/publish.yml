@@ -13,7 +13,7 @@ jobs:
     env:
       GH_TOKEN: ${{ github.token }}
       GH_REPO: ${{ github.repository }}
-      FOODCRAFT_WORK_DIR: ${{ runner.temp }}/foodcraft-work
+      FOODCRAFT_WORK_DIR: foodcraft-work
     steps:
       - name: Check out publication inputs
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
