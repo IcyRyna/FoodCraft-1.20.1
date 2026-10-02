@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:frying_pan",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "foodcraft:mianfensi"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:mahua",
+    "count": 1
+  },
+  "time": 400,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 300,
+  "max_heat": 380,
+  "experience": 0.5,
+  "exclusive_slots": [
+    0
+  ]
+}

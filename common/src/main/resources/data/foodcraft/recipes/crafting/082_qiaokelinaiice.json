@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/food_chocolatemilk"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:qiaokelinaiice",
+    "count": 1
+  }
+}

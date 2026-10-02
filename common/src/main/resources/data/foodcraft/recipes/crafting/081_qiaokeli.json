@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:qiaokeli_block"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:qiaokeli",
+    "count": 9
+  }
+}

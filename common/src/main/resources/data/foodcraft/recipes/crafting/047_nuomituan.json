@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:nuomifen"
+    },
+    {
+      "item": "foodcraft:nuomifen"
+    },
+    {
+      "item": "foodcraft:nuomifen"
+    },
+    {
+      "item": "foodcraft:water"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:nuomituan",
+    "count": 1
+  }
+}

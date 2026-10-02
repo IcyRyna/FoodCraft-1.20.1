@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "foodcraft:block/hongzaoshu"
+    },
+    "stage=1": {
+      "model": "foodcraft:block/hongzaoshu"
+    }
+  }
+}

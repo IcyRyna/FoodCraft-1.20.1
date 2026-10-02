@@ -1,0 +1,16 @@
+{
+  "forge": {
+    "golden_sha256": "c699efd327e4f0ed312db40519cc4c4725d4fde2feb7e1588dcfd74ca4d56f30",
+    "rebuilt_sha256": "c699efd327e4f0ed312db40519cc4c4725d4fde2feb7e1588dcfd74ca4d56f30",
+    "missing_entries": [],
+    "different_entries": [],
+    "added_classes": []
+  },
+  "fabric": {
+    "golden_sha256": "a2484e3297599f7025952fd32fb9b58b805bc054bb6faecc11c50f5c10c6d7b6",
+    "rebuilt_sha256": "a2484e3297599f7025952fd32fb9b58b805bc054bb6faecc11c50f5c10c6d7b6",
+    "missing_entries": [],
+    "different_entries": [],
+    "added_classes": []
+  }
+}

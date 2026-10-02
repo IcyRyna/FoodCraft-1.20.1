@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cake_slice6",
+  "textures": {
+    "bottom": "minecraft:block/cake_bottom",
+    "top": "foodcraft:block/blockningmengdg_top",
+    "side": "foodcraft:block/blockningmengdg_side",
+    "inside": "minecraft:block/cake_inner"
+  }
+}

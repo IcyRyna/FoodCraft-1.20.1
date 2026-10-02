@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:galijiroufan"
+    },
+    "B": {
+      "item": "foodcraft:shuizhuniurou"
+    },
+    "C": {
+      "item": "foodcraft:yifen"
+    },
+    "D": {
+      "item": "foodcraft:ribendoufu"
+    },
+    "E": {
+      "tag": "foodcraft:legacy/list_allveggie"
+    },
+    "F": {
+      "item": "foodcraft:yifenpork"
+    },
+    "G": {
+      "item": "foodcraft:changfen"
+    },
+    "H": {
+      "item": "foodcraft:yifenchicken"
+    },
+    "I": {
+      "item": "foodcraft:yifenbeef"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scfan3",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "foodcraft:legacy/crop_soybean"
+    }
+  },
+  "result": {
+    "item": "foodcraft:douzik",
+    "count": 1
+  }
+}

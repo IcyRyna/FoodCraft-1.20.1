@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:jiaozi"
+    },
+    "B": {
+      "item": "foodcraft:zongzi"
+    },
+    "C": {
+      "item": "foodcraft:yuebing"
+    },
+    "D": {
+      "item": "foodcraft:tangyuan"
+    },
+    "E": {
+      "item": "foodcraft:niangao"
+    },
+    "F": {
+      "item": "foodcraft:chunjuan"
+    },
+    "G": {
+      "item": "foodcraft:ciba"
+    },
+    "H": {
+      "item": "foodcraft:hetaosu"
+    },
+    "I": {
+      "item": "foodcraft:baifan"
+    }
+  },
+  "result": {
+    "item": "foodcraft:sccn",
+    "count": 1
+  }
+}

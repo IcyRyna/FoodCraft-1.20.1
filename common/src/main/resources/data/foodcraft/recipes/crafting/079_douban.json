@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:douban_block"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:douban",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "foodcraft:block/nt_side",
+    "down": "minecraft:block/oak_planks",
+    "up": "minecraft:block/oak_planks",
+    "north": "foodcraft:block/nt_side",
+    "south": "foodcraft:block/nt_side",
+    "east": "foodcraft:block/nt_side",
+    "west": "foodcraft:block/nt_side"
+  }
+}

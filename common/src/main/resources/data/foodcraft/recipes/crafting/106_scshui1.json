@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:qiaokelishui"
+    },
+    "B": {
+      "tag": "foodcraft:legacy/food_grapejuice"
+    },
+    "C": {
+      "tag": "foodcraft:legacy/food_applejuice"
+    },
+    "D": {
+      "tag": "foodcraft:legacy/crop_coffee"
+    },
+    "E": {
+      "item": "minecraft:apple"
+    },
+    "F": {
+      "tag": "foodcraft:legacy/food_chocolatemilk"
+    },
+    "G": {
+      "item": "foodcraft:dounai"
+    },
+    "H": {
+      "tag": "foodcraft:legacy/food_melonjuice"
+    },
+    "I": {
+      "item": "foodcraft:naicha"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scshui1",
+    "count": 1
+  }
+}

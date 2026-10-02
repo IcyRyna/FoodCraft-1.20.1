@@ -1,0 +1,44 @@
+{
+  "type": "foodcraft:pot",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "foodcraft:dousha"
+      },
+      "count": 1
+    },
+    {
+      "slot": 1,
+      "ingredient": {
+        "item": "foodcraft:huashentangyuanxian"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:tangyuan",
+    "count": 1
+  },
+  "time": 500,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 400,
+  "max_heat": 500,
+  "experience": 0.0,
+  "exclusive_slots": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ]
+}

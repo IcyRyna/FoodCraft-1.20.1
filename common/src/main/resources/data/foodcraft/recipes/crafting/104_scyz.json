@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:shupian"
+    },
+    "B": {
+      "item": "foodcraft:zhaniangao"
+    },
+    "C": {
+      "item": "foodcraft:zhaxiangchang"
+    },
+    "D": {
+      "item": "foodcraft:zhamianbao"
+    },
+    "E": {
+      "item": "foodcraft:zhamahua"
+    },
+    "F": {
+      "item": "foodcraft:zhajitui"
+    },
+    "G": {
+      "item": "foodcraft:jimihua"
+    },
+    "H": {
+      "item": "foodcraft:jikuai"
+    },
+    "I": {
+      "item": "foodcraft:yuanweijikuai"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scyz",
+    "count": 1
+  }
+}

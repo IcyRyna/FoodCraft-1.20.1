@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "foodcraft:block/blocklongyan",
+    "up": "foodcraft:block/fcleaves",
+    "down": "foodcraft:block/fcleaves",
+    "north": "foodcraft:block/blocklongyan",
+    "south": "foodcraft:block/blocklongyan",
+    "east": "foodcraft:block/blocklongyan",
+    "west": "foodcraft:block/blocklongyan"
+  }
+}

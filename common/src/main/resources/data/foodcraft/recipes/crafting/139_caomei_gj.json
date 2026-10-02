@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:water"
+    },
+    {
+      "item": "foodcraft:caomei"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:caomei_gj",
+    "count": 1
+  }
+}

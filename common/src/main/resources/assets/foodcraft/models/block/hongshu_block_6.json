@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "foodcraft:block/hongshu_3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "foodcraft:block/lishu"
+    },
+    "stage=1": {
+      "model": "foodcraft:block/lishu"
+    }
+  }
+}

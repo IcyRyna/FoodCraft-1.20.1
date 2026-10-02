@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "foodcraft:dianluban"
+    },
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "D": {
+      "item": "foodcraft:waike"
+    }
+  },
+  "result": {
+    "item": "foodcraft:fermenting_barrel",
+    "count": 1
+  }
+}

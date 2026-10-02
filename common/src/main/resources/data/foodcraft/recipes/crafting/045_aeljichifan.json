@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:aeljichi"
+    },
+    {
+      "item": "foodcraft:baifan"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:aeljichifan",
+    "count": 1
+  }
+}

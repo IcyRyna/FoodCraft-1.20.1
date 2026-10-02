@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:nuomi"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "foodcraft:zongye"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:zongzi",
+    "count": 1
+  }
+}

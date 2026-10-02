@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##",
+    "X "
+  ],
+  "key": {
+    "#": [
+      {
+        "tag": "forge:gems/emerald"
+      },
+      {
+        "tag": "c:emeralds"
+      },
+      {
+        "tag": "c:gems_emerald"
+      }
+    ],
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "foodcraft:caidao_lbs",
+    "count": 1
+  }
+}

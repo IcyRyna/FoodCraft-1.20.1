@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "CDE",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:anlanzhishi"
+    },
+    "C": {
+      "item": "foodcraft:scth"
+    },
+    "B": {
+      "item": "foodcraft:anbizhishi"
+    },
+    "E": {
+      "item": "foodcraft:scj"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "foodcraft:zongjiqianguzhishi",
+    "count": 1
+  }
+}

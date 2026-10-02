@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "foodcraft:legacy/list_allveggie"
+    },
+    {
+      "tag": "foodcraft:legacy/list_allmeatcooked"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:hanbaobao",
+    "count": 1
+  }
+}

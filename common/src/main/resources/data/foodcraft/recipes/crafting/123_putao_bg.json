@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:binggan_f"
+    },
+    {
+      "item": "foodcraft:putao_gj"
+    },
+    {
+      "item": "foodcraft:binggan_f"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:putao_bg",
+    "count": 1
+  }
+}

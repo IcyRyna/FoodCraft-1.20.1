@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:hanbaobao"
+    },
+    "B": {
+      "item": "foodcraft:shutiao"
+    },
+    "C": {
+      "item": "foodcraft:jichi"
+    },
+    "D": {
+      "item": "foodcraft:jimihua"
+    },
+    "E": {
+      "item": "foodcraft:jikuai"
+    },
+    "F": {
+      "item": "foodcraft:yuanweijikuai"
+    },
+    "G": {
+      "item": "foodcraft:youtiao"
+    },
+    "H": {
+      "item": "foodcraft:kele"
+    },
+    "I": {
+      "item": "foodcraft:xuebi"
+    }
+  },
+  "result": {
+    "item": "foodcraft:sckfc",
+    "count": 1
+  }
+}

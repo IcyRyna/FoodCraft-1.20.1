@@ -1,0 +1,12 @@
+{
+  "type": "foodcraft:smelting",
+  "ingredient": {
+    "item": "foodcraft:water"
+  },
+  "result": {
+    "item": "foodcraft:yan",
+    "count": 2
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/food_silkentofu"
+    },
+    {
+      "item": "foodcraft:luobosi"
+    },
+    {
+      "tag": "foodcraft:legacy/list_allveggie"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:chunjuan",
+    "count": 1
+  }
+}

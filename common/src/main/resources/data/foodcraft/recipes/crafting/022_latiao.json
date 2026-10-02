@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/food_silkentofu"
+    },
+    {
+      "tag": "foodcraft:legacy/crop_chilipepper"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:latiao",
+    "count": 1
+  }
+}

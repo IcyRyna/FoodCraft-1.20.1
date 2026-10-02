@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "#X#",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:scshui1"
+    },
+    "B": {
+      "item": "foodcraft:scshui2"
+    },
+    "C": {
+      "item": "foodcraft:scfan1"
+    },
+    "D": {
+      "item": "foodcraft:scfan2"
+    },
+    "E": {
+      "item": "foodcraft:scfan3"
+    },
+    "F": {
+      "item": "foodcraft:scblock"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "foodcraft:anlanzhishi",
+    "count": 1
+  }
+}

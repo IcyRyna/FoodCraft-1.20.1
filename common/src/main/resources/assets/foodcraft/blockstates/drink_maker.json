@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "foodcraft:block/drink_maker",
+      "y": 0
+    },
+    "facing=north,lit=true": {
+      "model": "foodcraft:block/drink_maker_lit",
+      "y": 0
+    },
+    "facing=east,lit=false": {
+      "model": "foodcraft:block/drink_maker",
+      "y": 90
+    },
+    "facing=east,lit=true": {
+      "model": "foodcraft:block/drink_maker_lit",
+      "y": 90
+    },
+    "facing=south,lit=false": {
+      "model": "foodcraft:block/drink_maker",
+      "y": 180
+    },
+    "facing=south,lit=true": {
+      "model": "foodcraft:block/drink_maker_lit",
+      "y": 180
+    },
+    "facing=west,lit=false": {
+      "model": "foodcraft:block/drink_maker",
+      "y": 270
+    },
+    "facing=west,lit=true": {
+      "model": "foodcraft:block/drink_maker_lit",
+      "y": 270
+    }
+  }
+}

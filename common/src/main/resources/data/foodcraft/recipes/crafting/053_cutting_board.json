@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:planks"
+    },
+    "B": {
+      "item": "foodcraft:caidao"
+    },
+    "C": {
+      "item": "foodcraft:waike"
+    }
+  },
+  "result": {
+    "item": "foodcraft:cutting_board",
+    "count": 1
+  }
+}

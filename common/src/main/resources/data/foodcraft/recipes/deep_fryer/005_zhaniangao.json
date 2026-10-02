@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:deep_fryer",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "foodcraft:niangao"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:zhaniangao",
+    "count": 1
+  },
+  "time": 400,
+  "water": 2,
+  "milk": false,
+  "cold": false,
+  "min_heat": 0,
+  "max_heat": 2147483647,
+  "experience": 0.5,
+  "exclusive_slots": [
+    0
+  ]
+}

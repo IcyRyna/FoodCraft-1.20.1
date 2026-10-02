@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "CDE"
+  ],
+  "key": {
+    "A": {
+      "tag": "foodcraft:legacy/food_rice"
+    },
+    "B": {
+      "item": "foodcraft:water"
+    },
+    "C": {
+      "tag": "foodcraft:legacy/food_greenonion"
+    },
+    "D": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "E": {
+      "tag": "foodcraft:legacy/food_soysauce"
+    }
+  },
+  "result": {
+    "item": "foodcraft:changfen",
+    "count": 1
+  }
+}

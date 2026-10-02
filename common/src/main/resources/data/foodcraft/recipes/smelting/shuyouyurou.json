@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "foodcraft:youyurou"
+  },
+  "result": "foodcraft:shuyouyurou",
+  "experience": 0.5,
+  "cookingtime": 200
+}

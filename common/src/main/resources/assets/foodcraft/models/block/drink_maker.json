@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "foodcraft:block/nmj_side",
+    "down": "foodcraft:block/nmj_top",
+    "up": "foodcraft:block/nmj_top",
+    "north": "foodcraft:block/tpj_tpj_off",
+    "south": "foodcraft:block/nmj_side",
+    "east": "foodcraft:block/nmj_side",
+    "west": "foodcraft:block/nmj_side"
+  }
+}

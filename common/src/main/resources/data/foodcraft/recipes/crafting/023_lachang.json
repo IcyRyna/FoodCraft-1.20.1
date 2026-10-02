@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/food_sausage"
+    },
+    {
+      "item": "foodcraft:laweixunliao"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:lachang",
+    "count": 1
+  }
+}

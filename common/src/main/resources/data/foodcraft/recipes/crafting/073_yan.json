@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:yan_block"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:yan",
+    "count": 9
+  }
+}

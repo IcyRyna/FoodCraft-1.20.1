@@ -1,0 +1,1040 @@
+{
+  "BlockTree": [
+    {
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        1,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        2,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        3,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        4,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        2,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        2,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        2,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        2,
+        0
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        0,
+        2,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        2,
+        2
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        0,
+        2,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        2,
+        -2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        2,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        2,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        2,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        2,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        2,
+        2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        2,
+        2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        2,
+        2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        2,
+        2
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        1,
+        2,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        2,
+        -1
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        -1,
+        2,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        2,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        2,
+        -2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        2,
+        -2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        2,
+        -2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        2,
+        -2
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        1,
+        3,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        3,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        3,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        3,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        3,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        3,
+        2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        3,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        3,
+        -2
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        1,
+        3,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        3,
+        1
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        -1,
+        3,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        3,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        3,
+        2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        3,
+        2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        3,
+        2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        3,
+        2
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        1,
+        3,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        2,
+        3,
+        -1
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        -1,
+        3,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        3,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        3,
+        -2
+      ],
+      "block": "fruit"
+    },
+    {
+      "offset": [
+        2,
+        3,
+        -2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        3,
+        -2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -2,
+        3,
+        -2
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        4,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        -1,
+        5,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        4,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        1,
+        5,
+        0
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        4,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        4,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        -1
+      ],
+      "block": "foodcraft:fcleaves"
+    }
+  ],
+  "TreeBannana": [
+    {
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        1,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        2,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        3,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        4,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        8,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        9,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        10,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -1,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -1,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        1,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        1,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        -1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        -1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -2,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -3,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -3,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -4,
+        8,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        2,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        3,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        3,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        4,
+        8,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        -2
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        -3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        -3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        8,
+        -4
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        2
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        8,
+        4
+      ],
+      "block": "minecraft:oak_leaves"
+    }
+  ],
+  "TreeCoconut": [
+    {
+      "offset": [
+        0,
+        0,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        1,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        2,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        3,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        4,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_log"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -1,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -1,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        1,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        1,
+        7,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        -1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        -1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        7,
+        1
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -2,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -3,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -3,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        -4,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        2,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        3,
+        6,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        3,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        4,
+        5,
+        0
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        -2
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        -3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        -3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        -4
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        2
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        6,
+        3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        3
+      ],
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "offset": [
+        0,
+        5,
+        4
+      ],
+      "block": "minecraft:oak_leaves"
+    }
+  ]
+}

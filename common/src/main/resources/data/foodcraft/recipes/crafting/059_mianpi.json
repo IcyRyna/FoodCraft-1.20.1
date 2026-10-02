@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/food_flour"
+    },
+    {
+      "tag": "foodcraft:legacy/food_flour"
+    },
+    {
+      "tag": "foodcraft:legacy/food_flour"
+    },
+    {
+      "item": "foodcraft:water"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:mianpi",
+    "count": 2
+  }
+}

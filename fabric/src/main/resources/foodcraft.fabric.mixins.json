@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.foodcraft.fabric.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "foodcraft-fabric-refmap.json",
+  "mixins": [
+    "FurnaceCountMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

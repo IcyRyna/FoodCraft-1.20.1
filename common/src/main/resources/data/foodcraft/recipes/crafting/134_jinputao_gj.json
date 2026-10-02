@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:water"
+    },
+    {
+      "item": "foodcraft:jinputao"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:jinputao_gj",
+    "count": 1
+  }
+}

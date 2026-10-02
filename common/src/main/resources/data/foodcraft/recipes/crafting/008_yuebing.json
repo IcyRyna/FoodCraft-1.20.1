@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "XBX",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "foodcraft:legacy/food_flour"
+    },
+    "B": {
+      "item": "foodcraft:dousha"
+    },
+    "X": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "result": {
+    "item": "foodcraft:yuebing",
+    "count": 1
+  }
+}

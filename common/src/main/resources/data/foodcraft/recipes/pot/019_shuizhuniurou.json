@@ -1,0 +1,72 @@
+{
+  "type": "foodcraft:pot",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "minecraft:cooked_beef"
+      },
+      "count": 1
+    },
+    {
+      "slot": 1,
+      "ingredient": {
+        "item": "foodcraft:lajiao"
+      },
+      "count": 1
+    },
+    {
+      "slot": 2,
+      "ingredient": {
+        "item": "foodcraft:shucai"
+      },
+      "count": 1
+    },
+    {
+      "slot": 4,
+      "ingredient": {
+        "item": "foodcraft:huashenyou"
+      },
+      "count": 1
+    },
+    {
+      "slot": 5,
+      "ingredient": {
+        "item": "foodcraft:yan"
+      },
+      "count": 1
+    },
+    {
+      "slot": 6,
+      "ingredient": {
+        "item": "foodcraft:dianfen"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:shuizhuniurou",
+    "count": 1
+  },
+  "time": 500,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 350,
+  "max_heat": 450,
+  "experience": 0.0,
+  "exclusive_slots": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ]
+}

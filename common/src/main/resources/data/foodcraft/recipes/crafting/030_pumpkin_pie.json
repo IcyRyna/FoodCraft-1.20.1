@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:nuomifen"
+    },
+    "B": {
+      "item": "minecraft:pumpkin"
+    },
+    "C": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:pumpkin_pie",
+    "count": 1
+  }
+}

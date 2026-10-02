@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "EBE",
+    " C "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "foodcraft:waike"
+    },
+    "C": {
+      "item": "foodcraft:dianluban"
+    },
+    "E": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "result": {
+    "item": "foodcraft:pot",
+    "count": 1
+  }
+}

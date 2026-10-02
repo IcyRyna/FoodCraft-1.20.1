@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "foodcraft:block/blockli",
+    "up": "foodcraft:block/fcleaves",
+    "down": "foodcraft:block/fcleaves",
+    "north": "foodcraft:block/blockli",
+    "south": "foodcraft:block/blockli",
+    "east": "foodcraft:block/blockli",
+    "west": "foodcraft:block/blockli"
+  }
+}

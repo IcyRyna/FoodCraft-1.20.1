@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/list_allveggie"
+    },
+    {
+      "tag": "foodcraft:legacy/food_sausage"
+    },
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:regou",
+    "count": 1
+  }
+}

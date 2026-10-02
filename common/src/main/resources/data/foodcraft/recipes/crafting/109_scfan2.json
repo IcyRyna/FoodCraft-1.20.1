@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:aeljichifan"
+    },
+    "B": {
+      "item": "foodcraft:laziji"
+    },
+    "C": {
+      "item": "foodcraft:koushuiji"
+    },
+    "D": {
+      "item": "foodcraft:baiqiuji"
+    },
+    "E": {
+      "item": "foodcraft:congyouji"
+    },
+    "F": {
+      "item": "foodcraft:suancaiyu"
+    },
+    "G": {
+      "item": "foodcraft:malayu"
+    },
+    "H": {
+      "item": "foodcraft:qingzhenyu"
+    },
+    "I": {
+      "item": "foodcraft:kelejichifan"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scfan2",
+    "count": 1
+  }
+}

@@ -1,0 +1,51 @@
+plugins { id 'fabric-loom' }
+base { archivesName = "foodcraft-${rootProject.minecraft_version}-fabric" }
+def qaUser=providers.gradleProperty('foodcraftUsername').getOrElse('FoodCraftQA1')
+def projectWorkDir=rootProject.foodcraftWorkDir
+def qaRunDir=providers.gradleProperty('foodcraftRunDir').getOrElse(new File(rootProject.foodcraftWorkDir,'run-fabric-client').absolutePath)
+def launchDirectories = [runClient:file(qaRunDir),runServer:new File(projectWorkDir,'run-fabric-server'),runGametest:new File(projectWorkDir,'run-fabric-gametest')]
+def loomRunDir = { File directory ->
+    def projectPath=projectDir.toPath().toAbsolutePath().normalize()
+    def targetPath=directory.toPath().toAbsolutePath().normalize()
+    // Loom 1.7 concatenates runDir to the project directory; it requires a relative path.
+    return projectPath.root==targetPath.root ? projectPath.relativize(targetPath).toString().replace('\\','/') : '.'
+}
+loom {
+    mixin { defaultRefmapName = 'foodcraft-fabric-refmap.json' }
+    runs {
+        client {
+            runDir loomRunDir(launchDirectories.runClient)
+            programArgs '--username', qaUser
+            if (rootProject.hasProperty('foodcraftQuickSingle')) programArgs '--quickPlaySingleplayer', 'FoodCraftQA'
+            if (rootProject.hasProperty('foodcraftQuickServer')) programArgs '--quickPlayMultiplayer', rootProject.property('foodcraftQuickServer')
+        }
+        server { runDir loomRunDir(launchDirectories.runServer) }
+        gametest {
+            server()
+            name = 'FoodCraft GameTest'
+            vmArg '-Dfabric-api.gametest'
+            if (rootProject.hasProperty('foodcraftSoak')) vmArg '-Dfoodcraft.soak=true'
+            runDir loomRunDir(launchDirectories.runGametest)
+        }
+    }
+}
+tasks.withType(JavaExec).configureEach {
+    if(launchDirectories.containsKey(name)) {
+        def directory=launchDirectories[name]
+        // Explicitly support FOODCRAFT_WORK_DIR on another Windows drive as well.
+        doFirst { directory.mkdirs(); workingDir directory }
+    }
+}
+sourceSets.main.java.srcDirs += ['../common/src/main/java', '../core/src/main/java']
+sourceSets.main.resources.srcDirs += ['../common/src/main/resources']
+jar { from(rootProject.file('LICENSE')) }
+dependencies {
+    minecraft "com.mojang:minecraft:${rootProject.minecraft_version}"
+    mappings loom.officialMojangMappings()
+    modImplementation "net.fabricmc:fabric-loader:${rootProject.fabric_loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${rootProject.fabric_api_version}"
+    modCompileOnly "mezz.jei:jei-${rootProject.minecraft_version}-common-api:${rootProject.jei_version}"
+    modCompileOnly "mezz.jei:jei-${rootProject.minecraft_version}-fabric-api:${rootProject.jei_version}"
+    if (providers.gradleProperty('foodcraftJei').isPresent()) modRuntimeOnly "mezz.jei:jei-${rootProject.minecraft_version}-fabric:${rootProject.jei_version}"
+    if (providers.gradleProperty('foodcraftCraftTweaker').isPresent()) modRuntimeOnly files(new File(rootProject.foodcraftWorkDir,'compat/crafttweaker-fabric-14.0.60.jar'))
+}

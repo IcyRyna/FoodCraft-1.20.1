@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:regou"
+    },
+    "B": {
+      "item": "foodcraft:nainao"
+    },
+    "C": {
+      "item": "foodcraft:pisa"
+    },
+    "D": {
+      "item": "foodcraft:mantou"
+    },
+    "E": {
+      "item": "foodcraft:suancaibing"
+    },
+    "F": {
+      "item": "foodcraft:latiao"
+    },
+    "G": {
+      "item": "foodcraft:mahua"
+    },
+    "H": {
+      "item": "foodcraft:lachang"
+    },
+    "I": {
+      "item": "foodcraft:larou"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scmw2",
+    "count": 1
+  }
+}

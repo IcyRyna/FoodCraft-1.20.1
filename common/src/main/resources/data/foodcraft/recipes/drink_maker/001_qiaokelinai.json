@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:drink_maker",
+  "inputs": [
+    {
+      "slot": 1,
+      "ingredient": {
+        "item": "foodcraft:qiaokeli"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:qiaokelinai",
+    "count": 1
+  },
+  "time": 350,
+  "water": 1,
+  "milk": true,
+  "cold": false,
+  "min_heat": 0,
+  "max_heat": 2147483647,
+  "experience": 0.0,
+  "exclusive_slots": [
+    1
+  ]
+}

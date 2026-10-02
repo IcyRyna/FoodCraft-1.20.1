@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##",
+    "X "
+  ],
+  "key": {
+    "#": [
+      {
+        "tag": "forge:ingots/gold"
+      },
+      {
+        "tag": "c:gold_ingots"
+      },
+      {
+        "tag": "c:ingots_gold"
+      }
+    ],
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "foodcraft:caidao_hj",
+    "count": 1
+  }
+}

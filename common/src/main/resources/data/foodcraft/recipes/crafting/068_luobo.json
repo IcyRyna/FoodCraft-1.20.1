@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "result": {
+    "item": "foodcraft:luobo",
+    "count": 1
+  }
+}

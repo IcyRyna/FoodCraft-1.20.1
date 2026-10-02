@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:drink_maker",
+  "inputs": [
+    {
+      "slot": 1,
+      "ingredient": {
+        "item": "minecraft:golden_apple"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:jinpingguozhi",
+    "count": 1
+  },
+  "time": 350,
+  "water": 1,
+  "milk": false,
+  "cold": true,
+  "min_heat": 0,
+  "max_heat": 2147483647,
+  "experience": 0.0,
+  "exclusive_slots": [
+    1
+  ]
+}

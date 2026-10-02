@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##",
+    "X "
+  ],
+  "key": {
+    "#": [
+      {
+        "tag": "forge:gems/diamond"
+      },
+      {
+        "tag": "c:diamonds"
+      },
+      {
+        "tag": "c:gems_diamond"
+      }
+    ],
+    "X": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "foodcraft:caidao_zs",
+    "count": 1
+  }
+}

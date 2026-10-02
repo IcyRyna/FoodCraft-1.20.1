@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "#X#",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:scmw1"
+    },
+    "B": {
+      "item": "foodcraft:scmw2"
+    },
+    "C": {
+      "item": "foodcraft:sckfc"
+    },
+    "D": {
+      "item": "foodcraft:sccn"
+    },
+    "E": {
+      "item": "foodcraft:scyz"
+    },
+    "F": {
+      "item": "foodcraft:scplant"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "foodcraft:anbizhishi",
+    "count": 1
+  }
+}

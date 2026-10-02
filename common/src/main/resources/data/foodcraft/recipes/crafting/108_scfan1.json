@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:fanqiechaojidanfan"
+    },
+    "B": {
+      "item": "foodcraft:disanxian"
+    },
+    "C": {
+      "item": "foodcraft:yuxiangrousi"
+    },
+    "D": {
+      "item": "foodcraft:gongbaojiding"
+    },
+    "E": {
+      "item": "foodcraft:chaotudousifan"
+    },
+    "F": {
+      "item": "foodcraft:duojiaoyutou"
+    },
+    "G": {
+      "item": "foodcraft:mapodoufufan"
+    },
+    "H": {
+      "item": "foodcraft:hongshaoroufan"
+    },
+    "I": {
+      "item": "foodcraft:huiguoroufan"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scfan1",
+    "count": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:huluobozhi"
+    },
+    "B": {
+      "item": "foodcraft:cha"
+    },
+    "C": {
+      "tag": "foodcraft:legacy/food_vegetablesoup"
+    },
+    "D": {
+      "item": "foodcraft:pingguozhiice"
+    },
+    "E": {
+      "item": "foodcraft:putaozhiice"
+    },
+    "F": {
+      "tag": "foodcraft:legacy/crop_coffee"
+    },
+    "G": {
+      "item": "foodcraft:xiguazhiice"
+    },
+    "H": {
+      "item": "foodcraft:qiaokelinaiice"
+    },
+    "I": {
+      "item": "foodcraft:naicha"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scshui2",
+    "count": 1
+  }
+}

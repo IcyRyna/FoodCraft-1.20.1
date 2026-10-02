@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:ruomi"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:nuomi",
+    "count": 9
+  }
+}

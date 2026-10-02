@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:douban"
+    }
+  },
+  "result": {
+    "item": "foodcraft:douban_block",
+    "count": 1
+  }
+}

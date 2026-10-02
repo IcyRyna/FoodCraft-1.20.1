@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:milling_machine",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "foodcraft:huashen"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:huashenyou",
+    "count": 1
+  },
+  "time": 200,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 0,
+  "max_heat": 2147483647,
+  "experience": 0.5,
+  "exclusive_slots": [
+    0
+  ]
+}

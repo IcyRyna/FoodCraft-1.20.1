@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:water"
+    },
+    {
+      "item": "foodcraft:taozi"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:taozi_gj",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:nuomifen"
+    },
+    "B": {
+      "tag": "foodcraft:legacy/food_rice"
+    }
+  },
+  "result": {
+    "item": "foodcraft:niangao",
+    "count": 1
+  }
+}

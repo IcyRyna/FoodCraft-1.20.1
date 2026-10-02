@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "c:iron_ingots"
+      },
+      {
+        "tag": "c:ingots_iron"
+      }
+    ],
+    "X": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "foodcraft:tiepian",
+    "count": 16
+  }
+}

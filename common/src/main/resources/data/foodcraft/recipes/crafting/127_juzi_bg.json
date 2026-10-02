@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:binggan_f"
+    },
+    {
+      "item": "foodcraft:juzi_gj"
+    },
+    {
+      "item": "foodcraft:binggan_f"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:juzi_bg",
+    "count": 1
+  }
+}

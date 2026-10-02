@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:jianjidan"
+    },
+    "B": {
+      "tag": "foodcraft:legacy/food_pancakes"
+    },
+    "C": {
+      "item": "foodcraft:doufugan"
+    },
+    "D": {
+      "item": "foodcraft:chaotudoupian"
+    },
+    "E": {
+      "tag": "foodcraft:legacy/food_sausage"
+    },
+    "F": {
+      "item": "foodcraft:hetaosu"
+    },
+    "G": {
+      "item": "foodcraft:aici"
+    },
+    "H": {
+      "item": "foodcraft:niangao"
+    },
+    "I": {
+      "item": "foodcraft:chunjuan"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scmw1",
+    "count": 1
+  }
+}

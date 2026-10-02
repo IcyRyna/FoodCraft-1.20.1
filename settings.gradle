@@ -1,0 +1,16 @@
+pluginManagement {
+    repositories {
+        if (providers.gradleProperty('foodcraftMavenMirror').isPresent()) {
+            maven { url = providers.gradleProperty('foodcraftMavenMirror').get(); allowInsecureProtocol = true }
+        }
+        maven { url = 'https://maven.minecraftforge.net/' }
+        maven { url = 'https://maven.fabricmc.net/' }
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
+rootProject.name = 'foodcraft-1.20.1'
+include 'core'
+def selected = providers.gradleProperty('foodcraftLoader').getOrElse('all')
+if (selected in ['all', 'forge']) include 'forge'
+if (selected in ['all', 'fabric']) include 'fabric'

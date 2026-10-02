@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:qiaokeli_block"
+    },
+    "B": {
+      "item": "foodcraft:douban_block"
+    },
+    "C": {
+      "item": "foodcraft:luobo"
+    },
+    "D": {
+      "item": "foodcraft:douzik"
+    },
+    "E": {
+      "item": "foodcraft:huashenk"
+    },
+    "F": {
+      "item": "foodcraft:dami_block"
+    },
+    "G": {
+      "item": "foodcraft:tudou"
+    },
+    "H": {
+      "item": "foodcraft:yan_block"
+    },
+    "I": {
+      "item": "foodcraft:sugar"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scblock",
+    "count": 1
+  }
+}

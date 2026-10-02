@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DED",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:jinpingguojiu"
+    },
+    "B": {
+      "item": "foodcraft:jinputaozhi"
+    },
+    "C": {
+      "item": "foodcraft:jinpingguojiu"
+    },
+    "D": {
+      "item": "minecraft:golden_apple"
+    },
+    "E": {
+      "item": "foodcraft:jinputao"
+    },
+    "G": {
+      "item": "foodcraft:jinpingguozhiice"
+    },
+    "H": {
+      "item": "foodcraft:jinpingguozhi"
+    },
+    "I": {
+      "item": "foodcraft:jinputaozhiice"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scth",
+    "count": 1
+  }
+}

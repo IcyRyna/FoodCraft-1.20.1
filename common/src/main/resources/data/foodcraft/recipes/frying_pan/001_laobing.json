@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:frying_pan",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "foodcraft:mianfen"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:laobing",
+    "count": 1
+  },
+  "time": 400,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 250,
+  "max_heat": 350,
+  "experience": 0.5,
+  "exclusive_slots": [
+    0
+  ]
+}

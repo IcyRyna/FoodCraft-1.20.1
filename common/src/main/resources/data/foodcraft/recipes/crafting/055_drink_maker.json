@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    " F "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "minecraft:ice"
+    },
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "D": {
+      "item": "foodcraft:waike"
+    },
+    "F": {
+      "item": "foodcraft:dianluban"
+    }
+  },
+  "result": {
+    "item": "foodcraft:drink_maker",
+    "count": 1
+  }
+}

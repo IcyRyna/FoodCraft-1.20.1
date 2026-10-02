@@ -1,0 +1,35 @@
+{
+  "type": "foodcraft:cutting_board",
+  "inputs": [
+    {
+      "slot": 1,
+      "ingredient": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "count": 1
+    },
+    {
+      "slot": 2,
+      "ingredient": {
+        "item": "minecraft:cooked_chicken"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:dajirou",
+    "count": 4
+  },
+  "time": 1,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 0,
+  "max_heat": 2147483647,
+  "experience": 0.0,
+  "exclusive_slots": [
+    1,
+    2,
+    3
+  ]
+}

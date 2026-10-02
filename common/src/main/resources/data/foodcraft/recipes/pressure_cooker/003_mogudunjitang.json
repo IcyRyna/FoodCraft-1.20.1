@@ -1,0 +1,42 @@
+{
+  "type": "foodcraft:pressure_cooker",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "minecraft:brown_mushroom"
+      },
+      "count": 1
+    },
+    {
+      "slot": 1,
+      "ingredient": {
+        "item": "foodcraft:jitui"
+      },
+      "count": 1
+    },
+    {
+      "slot": 2,
+      "ingredient": {
+        "item": "foodcraft:yan"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:mogudunjitang",
+    "count": 1
+  },
+  "time": 480,
+  "water": 2,
+  "milk": false,
+  "cold": false,
+  "min_heat": 0,
+  "max_heat": 2147483647,
+  "experience": 0.0,
+  "exclusive_slots": [
+    0,
+    1,
+    2
+  ]
+}

@@ -1,0 +1,7972 @@
+[
+  {
+    "id": "foodcraft:cutting_board/000_jichi",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jichi",
+      "count": 2
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/001_jiaozixian",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:cooked_porkchop"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:shucai"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jiaozixian",
+      "count": 2
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/002_dajirou",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:dajirou",
+      "count": 4
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/003_zhongjirou",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:dajirou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:dajirou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhongjirou",
+      "count": 4
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/004_xiaojirou",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:zhongjirou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:zhongjirou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:xiaojirou",
+      "count": 4
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/005_tudoupian",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:potato"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:tudoupian",
+      "count": 3
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/006_tudousi",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:tudoupian"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:tudousi",
+      "count": 8
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/007_jitui",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jitui",
+      "count": 2
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/008_doufusi",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:doufu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:doufusi",
+      "count": 3
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/009_luobosi",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:carrot"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:luobosi",
+      "count": 3
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/010_mianfensi",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:mianpi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mianfensi",
+      "count": 3
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/011_youyusi",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:shuyouyurou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:youyusi",
+      "count": 3
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:cutting_board/012_bailuobosi",
+    "type": "foodcraft:cutting_board",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:bailuobo"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:bailuobosi",
+      "count": 3
+    },
+    "time": 1,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1,
+      2,
+      3
+    ],
+    "source": "gui/recipes/Caibanrecipe.java"
+  },
+  {
+    "id": "foodcraft:pressure_cooker/000_baifan",
+    "type": "foodcraft:pressure_cooker",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:fan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:fan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:fan"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:baifan",
+      "count": 1
+    },
+    "time": 480,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Gygrecipe.java"
+  },
+  {
+    "id": "foodcraft:pressure_cooker/001_xifan",
+    "type": "foodcraft:pressure_cooker",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:xifan",
+      "count": 3
+    },
+    "time": 480,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Gygrecipe.java"
+  },
+  {
+    "id": "foodcraft:pressure_cooker/002_dangeng",
+    "type": "foodcraft:pressure_cooker",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:egg"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:dangeng",
+      "count": 1
+    },
+    "time": 480,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Gygrecipe.java"
+  },
+  {
+    "id": "foodcraft:pressure_cooker/003_mogudunjitang",
+    "type": "foodcraft:pressure_cooker",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:brown_mushroom"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:jitui"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mogudunjitang",
+      "count": 1
+    },
+    "time": 480,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Gygrecipe.java"
+  },
+  {
+    "id": "foodcraft:pressure_cooker/004_qingzhenyu",
+    "type": "foodcraft:pressure_cooker",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_cod"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:qingzhenyu",
+      "count": 1
+    },
+    "time": 480,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Gygrecipe.java"
+  },
+  {
+    "id": "foodcraft:pressure_cooker/005_pidanshourouzhou",
+    "type": "foodcraft:pressure_cooker",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:egg"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:cooked_porkchop"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:pidanshourouzhou",
+      "count": 1
+    },
+    "time": 480,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Gygrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/000_jiangyou",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:douzi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:mianfen"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jiangyou",
+      "count": 16
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/001_cu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:douzi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:douzi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:cu",
+      "count": 16
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/002_putaojiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:putao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:putao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:putao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:putaojiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/003_hongjiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:putaojiu"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:putaojiu"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:putaojiu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:hongjiu",
+      "count": 9
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/004_baijiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:dami"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:dami"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:dami"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:baijiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/005_pingguojiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:apple"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:apple"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:apple"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:pingguojiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/006_jinpingguojiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:golden_apple"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:golden_apple"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:golden_apple"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinpingguojiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/007_jinputaojiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:jinputao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:jinputao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:jinputao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinputaojiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/008_lizijiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:li"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:li"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:li"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:lizijiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/009_lizhijiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:lizhi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lizhi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:lizhi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:lizhijiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/010_taozijiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:taozi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:taozi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:taozi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:taozijiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/011_shiliujiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:shiliu"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:shiliu"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:shiliu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shiliujiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/012_ningmengjiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:ningmeng"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:ningmeng"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:ningmeng"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:ningmengjiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:fermenting_barrel/013_mangguojiu",
+    "type": "foodcraft:fermenting_barrel",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:mangguo"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:mangguo"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:mangguo"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mangguojiu",
+      "count": 3
+    },
+    "time": 3600,
+    "water": 8,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2
+    ],
+    "source": "gui/recipes/Ntrecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/000_fanqiechaojidanfan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:egg"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "tag": "foodcraft:legacy/crop_tomato"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:fanqiechaojidanfan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 400,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/001_chaotudousifan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:tudousi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:chaotudousifan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 450,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/002_duojiaoyutou",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_cod"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:duojiaoyutou",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 450,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/003_mapodoufufan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:doufu"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:douban"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:dianfen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mapodoufufan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 400,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/004_disanxian",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:qingjiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:potato"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:qiezi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 3,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:disanxian",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 450,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/005_yuxiangrousi",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_porkchop"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:carrot"
+        },
+        "count": 1
+      },
+      {
+        "slot": 3,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:cu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yuxiangrousi",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 450,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/006_gongbaojiding",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:huashen"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 3,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:cu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:gongbaojiding",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 400,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/007_hongshaoroufan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_porkchop"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 8,
+        "ingredient": {
+          "item": "foodcraft:cu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:hongshaoroufan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 450,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/008_huiguoroufan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_porkchop"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:douban"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:huiguoroufan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 450,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/009_tangyuan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:nuomituan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:huashentangyuanxian"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:tangyuan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 400,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/010_tangyuan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:dousha"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:huashentangyuanxian"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:tangyuan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 400,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/011_baiqiuji",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:baiqiuji",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 450,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/012_koushuiji",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:douban"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:koushuiji",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 450,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/013_laziji",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:huashen"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "minecraft:sugar"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:laziji",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 450,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/014_congyouji",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:qingjiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:shucai"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:congyouji",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 400,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/015_kelejichifan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:jichi"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:kele"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:kelejichifan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 450,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/016_malayu",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_cod"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:malayu",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 450,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/017_suancaiyu",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_cod"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:cong"
+        },
+        "count": 1
+      },
+      {
+        "slot": 3,
+        "ingredient": {
+          "item": "foodcraft:shucai"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:dianfen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:suancaiyu",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 450,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/018_galijiroufan",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_chicken"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:galikuai"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "minecraft:potato"
+        },
+        "count": 1
+      },
+      {
+        "slot": 3,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:dianfen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:galijiroufan",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 400,
+    "max_heat": 500,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/019_shuizhuniurou",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cooked_beef"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:shucai"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:dianfen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shuizhuniurou",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 450,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:pot/020_ribendoufu",
+    "type": "foodcraft:pot",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:egg"
+        },
+        "count": 1
+      },
+      {
+        "slot": 1,
+        "ingredient": {
+          "tag": "foodcraft:legacy/food_greenonion"
+        },
+        "count": 1
+      },
+      {
+        "slot": 2,
+        "ingredient": {
+          "item": "foodcraft:lajiao"
+        },
+        "count": 1
+      },
+      {
+        "slot": 3,
+        "ingredient": {
+          "item": "foodcraft:baifan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 4,
+        "ingredient": {
+          "item": "foodcraft:huashenyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 5,
+        "ingredient": {
+          "item": "foodcraft:yan"
+        },
+        "count": 1
+      },
+      {
+        "slot": 6,
+        "ingredient": {
+          "item": "foodcraft:jiangyou"
+        },
+        "count": 1
+      },
+      {
+        "slot": 7,
+        "ingredient": {
+          "item": "foodcraft:dianfen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:ribendoufu",
+      "count": 1
+    },
+    "time": 500,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 450,
+    "experience": 0.0,
+    "exclusive_slots": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source": "gui/recipes/Guorecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/000_fan",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:dami"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:fan",
+      "count": 1
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.7,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/001_mianfen",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:wheat"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mianfen",
+      "count": 2
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/002_huashenyou",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:huashen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:huashenyou",
+      "count": 1
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/003_doujiang",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:douzi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:doujiang",
+      "count": 1
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/004_dianfen",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:potato"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:dianfen",
+      "count": 8
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/005_qiaokelifen",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:cocoa_beans"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:qiaokelifen",
+      "count": 1
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/006_nuomifen",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:nuomi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:nuomifen",
+      "count": 3
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:milling_machine/007_dousha",
+    "type": "foodcraft:milling_machine",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:hongdou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:dousha",
+      "count": 2
+    },
+    "time": 200,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/Nmjrecipe.java"
+  },
+  {
+    "id": "foodcraft:frying_pan/000_jianjidan",
+    "type": "foodcraft:frying_pan",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:egg"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jianjidan",
+      "count": 1
+    },
+    "time": 400,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 250,
+    "max_heat": 400,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/PDGrecipe.java"
+  },
+  {
+    "id": "foodcraft:frying_pan/001_laobing",
+    "type": "foodcraft:frying_pan",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:mianfen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:laobing",
+      "count": 1
+    },
+    "time": 400,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 250,
+    "max_heat": 350,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/PDGrecipe.java"
+  },
+  {
+    "id": "foodcraft:frying_pan/002_jianjiao",
+    "type": "foodcraft:frying_pan",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:jiaozi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jianjiao",
+      "count": 1
+    },
+    "time": 400,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 350,
+    "max_heat": 400,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/PDGrecipe.java"
+  },
+  {
+    "id": "foodcraft:frying_pan/003_chaotudoupian",
+    "type": "foodcraft:frying_pan",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:tudoupian"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:chaotudoupian",
+      "count": 1
+    },
+    "time": 400,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 225,
+    "max_heat": 325,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/PDGrecipe.java"
+  },
+  {
+    "id": "foodcraft:frying_pan/004_mahua",
+    "type": "foodcraft:frying_pan",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:mianfensi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mahua",
+      "count": 1
+    },
+    "time": 400,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 300,
+    "max_heat": 380,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/PDGrecipe.java"
+  },
+  {
+    "id": "foodcraft:frying_pan/005_baoyumihua",
+    "type": "foodcraft:frying_pan",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:yumi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:baoyumihua",
+      "count": 1
+    },
+    "time": 400,
+    "water": 0,
+    "milk": false,
+    "cold": false,
+    "min_heat": 250,
+    "max_heat": 330,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/PDGrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/000_zhajitui",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:jitui"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhajitui",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/001_zhamahua",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:mahua"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhamahua",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/002_zhachunjuan",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:chunjuan"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhachunjuan",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/003_zhamianbao",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "minecraft:bread"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhamianbao",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/004_shupian",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:tudoupian"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shupian",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/005_zhaniangao",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:niangao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhaniangao",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/006_zhadoufu",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:doufu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhadoufu",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/007_shutiao",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:tudousi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shutiao",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/008_yuanweijikuai",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:dajirou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yuanweijikuai",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/009_jikuai",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:zhongjirou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jikuai",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/010_jimihua",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:xiaojirou"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jimihua",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/011_aeljichi",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:jichi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:aeljichi",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/012_youtiao",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:mianfen"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:youtiao",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:deep_fryer/013_zhaxiangchang",
+    "type": "foodcraft:deep_fryer",
+    "inputs": [
+      {
+        "slot": 0,
+        "ingredient": {
+          "item": "foodcraft:xiangchang"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zhaxiangchang",
+      "count": 1
+    },
+    "time": 400,
+    "water": 2,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.5,
+    "exclusive_slots": [
+      0
+    ],
+    "source": "gui/recipes/YZJrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/000_qiaokelishui",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:qiaokeli"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:qiaokelishui",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/001_qiaokelinai",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:qiaokeli"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:qiaokelinai",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": true,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/002_huluobozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:carrot"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:huluobozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/003_shucaizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:shucai"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shucaizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/004_dounai",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:doujiang"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:dounai",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": true,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/005_cha",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "tag": "minecraft:leaves"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:cha",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/006_naicha",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:cha"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:naicha",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": true,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/007_bailuobozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:bailuobo"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:bailuobozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/008_fanqiezhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:fanqie"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:fanqiezhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/009_yumizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:yumi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yumizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/010_huangguazhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:huanggua"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:huangguazhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": false,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/011_pingguozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:apple"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:pingguozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/012_putaozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:putao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:putaozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/013_jinpingguozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:golden_apple"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinpingguozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/014_jinputaozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:jinputao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinputaozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/015_xuebi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:bone_meal"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:xuebi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/016_kele",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:ink_sac"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:kele",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/017_xiguazhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "minecraft:melon_slice"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:xiguazhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/018_lizizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:li"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:lizizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/019_lizhizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:lizhi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:lizhizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/020_taozizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:taozi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:taozizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/021_juzizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:juzi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:juzizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/022_pipazhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:pipa"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:pipazhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/023_mangguozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:mangguo"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mangguozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/024_ningmengzhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:ningmeng"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:ningmengzhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/025_youzizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:youzi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:youzizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/026_shizizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:shizi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shizizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/027_muguazhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:mugua"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:muguazhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/028_shanzhazhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:shanzha"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shanzhazhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/029_shiliuzhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:shiliu"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:shiliuzhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/030_hongzaozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:hongzao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:hongzaozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/031_caomeizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:caomei"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:caomeizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/032_yezizhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:yezi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yezizhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/033_yingtaozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:yingtao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yingtaozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/034_xiangjiaozhi",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:xiangjiao"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:xiangjiaozhi",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": false,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:drink_maker/035_yenai",
+    "type": "foodcraft:drink_maker",
+    "inputs": [
+      {
+        "slot": 1,
+        "ingredient": {
+          "item": "foodcraft:yezizhi"
+        },
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yenai",
+      "count": 1
+    },
+    "time": 350,
+    "water": 1,
+    "milk": true,
+    "cold": true,
+    "min_heat": 0,
+    "max_heat": 2147483647,
+    "experience": 0.0,
+    "exclusive_slots": [
+      1
+    ],
+    "source": "gui/recipes/Tpjrecipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/000_tiepian",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "forge:ingots/iron"
+        },
+        {
+          "tag": "c:iron_ingots"
+        },
+        {
+          "tag": "c:ingots_iron"
+        }
+      ],
+      "X": {
+        "item": "minecraft:stone"
+      }
+    },
+    "result": {
+      "item": "foodcraft:tiepian",
+      "count": 16
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/001_caidao",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "##",
+      "##",
+      "X "
+    ],
+    "key": {
+      "#": {
+        "tag": "foodcraft:legacy/plate_iron"
+      },
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "foodcraft:caidao",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/002_caidao_hj",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "##",
+      "##",
+      "X "
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "forge:ingots/gold"
+        },
+        {
+          "tag": "c:gold_ingots"
+        },
+        {
+          "tag": "c:ingots_gold"
+        }
+      ],
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "foodcraft:caidao_hj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/003_caidao_zs",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "##",
+      "##",
+      "X "
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "forge:gems/diamond"
+        },
+        {
+          "tag": "c:diamonds"
+        },
+        {
+          "tag": "c:gems_diamond"
+        }
+      ],
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "foodcraft:caidao_zs",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/004_caidao_lbs",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "##",
+      "##",
+      "X "
+    ],
+    "key": {
+      "#": [
+        {
+          "tag": "forge:gems/emerald"
+        },
+        {
+          "tag": "c:emeralds"
+        },
+        {
+          "tag": "c:gems_emerald"
+        }
+      ],
+      "X": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "foodcraft:caidao_lbs",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/005_pisa",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_pancakes"
+      },
+      {
+        "tag": "foodcraft:legacy/list_allmeatcooked"
+      },
+      {
+        "tag": "foodcraft:legacy/list_allveggie"
+      },
+      {
+        "tag": "foodcraft:legacy/food_cheese"
+      },
+      {
+        "tag": "foodcraft:mushrooms"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:pisa",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/006_jinghuashuitong",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:bucket"
+      },
+      {
+        "tag": "minecraft:wool"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinghuashuitong",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/007_hanbaobao",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:bread"
+      },
+      {
+        "tag": "foodcraft:legacy/list_allveggie"
+      },
+      {
+        "tag": "foodcraft:legacy/list_allmeatcooked"
+      },
+      {
+        "item": "minecraft:bread"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:hanbaobao",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/008_yuebing",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "XBX",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "B": {
+        "item": "foodcraft:dousha"
+      },
+      "X": {
+        "item": "minecraft:yellow_dye"
+      }
+    },
+    "result": {
+      "item": "foodcraft:yuebing",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/009_yuebing",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "XBX",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "B": {
+        "item": "minecraft:egg"
+      },
+      "X": {
+        "item": "minecraft:yellow_dye"
+      }
+    },
+    "result": {
+      "item": "foodcraft:yuebing",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/010_niangao",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:nuomifen"
+      },
+      "B": {
+        "tag": "foodcraft:legacy/food_rice"
+      }
+    },
+    "result": {
+      "item": "foodcraft:niangao",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/011_wrench",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "A A",
+      " A ",
+      " A "
+    ],
+    "key": {
+      "A": [
+        {
+          "tag": "forge:ingots/iron"
+        },
+        {
+          "tag": "c:iron_ingots"
+        },
+        {
+          "tag": "c:ingots_iron"
+        }
+      ]
+    },
+    "result": {
+      "item": "foodcraft:wrench",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/012_ciba",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:nuomifen"
+      },
+      "B": {
+        "item": "foodcraft:water"
+      }
+    },
+    "result": {
+      "item": "foodcraft:ciba",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/013_aici",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_ricecake"
+      },
+      {
+        "tag": "minecraft:leaves"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:aici",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/014_changfen",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "BBB",
+      "CDE"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_rice"
+      },
+      "B": {
+        "item": "foodcraft:water"
+      },
+      "C": {
+        "tag": "foodcraft:legacy/food_greenonion"
+      },
+      "D": {
+        "item": "minecraft:cooked_porkchop"
+      },
+      "E": {
+        "tag": "foodcraft:legacy/food_soysauce"
+      }
+    },
+    "result": {
+      "item": "foodcraft:changfen",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/015_regou",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/list_allveggie"
+      },
+      {
+        "tag": "foodcraft:legacy/food_sausage"
+      },
+      {
+        "item": "minecraft:bread"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:regou",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/016_labazhou",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_ricesoup"
+      },
+      {
+        "item": "minecraft:wheat"
+      },
+      {
+        "tag": "foodcraft:legacy/crop_peanut"
+      },
+      {
+        "item": "foodcraft:fan"
+      },
+      {
+        "tag": "foodcraft:legacy/crop_soybean"
+      },
+      {
+        "item": "foodcraft:larou"
+      },
+      {
+        "item": "foodcraft:nuomi"
+      },
+      {
+        "item": "foodcraft:lachang"
+      },
+      {
+        "item": "minecraft:carrot"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:labazhou",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/017_mian",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABA",
+      "ABA",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "B": {
+        "item": "foodcraft:water"
+      }
+    },
+    "result": {
+      "item": "foodcraft:mian",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/018_guoqiaomixian",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABA",
+      "ABA",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:fan"
+      },
+      "B": {
+        "item": "foodcraft:water"
+      }
+    },
+    "result": {
+      "item": "foodcraft:guoqiaomixian",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/019_yifen",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABA",
+      "ABA",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat"
+      },
+      "B": {
+        "item": "foodcraft:water"
+      }
+    },
+    "result": {
+      "item": "foodcraft:yifen",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/020_mantou",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "B": {
+        "item": "foodcraft:water"
+      }
+    },
+    "result": {
+      "item": "foodcraft:mantou",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/021_suancaibing",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "B": {
+        "tag": "foodcraft:legacy/list_allveggie"
+      }
+    },
+    "result": {
+      "item": "foodcraft:suancaibing",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/022_latiao",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_silkentofu"
+      },
+      {
+        "tag": "foodcraft:legacy/crop_chilipepper"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:latiao",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/023_lachang",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_sausage"
+      },
+      {
+        "item": "foodcraft:laweixunliao"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:lachang",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/024_larou",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:cooked_porkchop"
+      },
+      {
+        "item": "foodcraft:laweixunliao"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:larou",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/025_yifenpork",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:yifen"
+      },
+      {
+        "item": "minecraft:cooked_porkchop"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yifenpork",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/026_yifenchicken",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:yifen"
+      },
+      {
+        "item": "minecraft:cooked_chicken"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yifenchicken",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/027_yifenbeef",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:yifen"
+      },
+      {
+        "item": "minecraft:cooked_beef"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yifenbeef",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/028_cake",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "BEB",
+      "CCC"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:milk_bucket"
+      },
+      "B": {
+        "item": "minecraft:sugar"
+      },
+      "C": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "E": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:cake",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/029_bread",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      }
+    },
+    "result": {
+      "item": "minecraft:bread",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/030_pumpkin_pie",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "BBB",
+      "CCC"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:nuomifen"
+      },
+      "B": {
+        "item": "minecraft:pumpkin"
+      },
+      "C": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "minecraft:pumpkin_pie",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/031_waike",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_peanut"
+      },
+      "B": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "foodcraft:waike",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/032_waike",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_soybean"
+      },
+      "B": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "foodcraft:waike",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/033_waike",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_rice"
+      },
+      "B": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "foodcraft:waike",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/034_waike",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat"
+      },
+      "B": {
+        "item": "minecraft:iron_block"
+      }
+    },
+    "result": {
+      "item": "foodcraft:waike",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/035_dianluban",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "CBC",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_peanut"
+      },
+      "B": {
+        "item": "minecraft:iron_ingot"
+      },
+      "C": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "foodcraft:dianluban",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/036_dianluban",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "CBC",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_soybean"
+      },
+      "B": {
+        "item": "minecraft:iron_ingot"
+      },
+      "C": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "foodcraft:dianluban",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/037_dianluban",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "CBC",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_rice"
+      },
+      "B": {
+        "item": "minecraft:iron_ingot"
+      },
+      "C": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "foodcraft:dianluban",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/038_dianluban",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "CBC",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat"
+      },
+      "B": {
+        "item": "minecraft:iron_ingot"
+      },
+      "C": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "foodcraft:dianluban",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/039_qiaokeli",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:qiaokelifen"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:qiaokeli",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/040_nuomi",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:nuomi"
+      },
+      {
+        "item": "minecraft:bone"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:nuomi",
+      "count": 2
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/041_douban",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:douban"
+      },
+      {
+        "item": "minecraft:bone"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:douban",
+      "count": 2
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/042_doufugan",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_toufu"
+      },
+      {
+        "tag": "foodcraft:legacy/food_soysauce"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:doufugan",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/043_doufu",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_soymilk"
+      },
+      {
+        "item": "foodcraft:yan"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:doufu",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/044_chunjuan",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_silkentofu"
+      },
+      {
+        "item": "foodcraft:luobosi"
+      },
+      {
+        "tag": "foodcraft:legacy/list_allveggie"
+      },
+      {
+        "item": "minecraft:cooked_porkchop"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:chunjuan",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/045_aeljichifan",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:aeljichi"
+      },
+      {
+        "item": "foodcraft:baifan"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:aeljichifan",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/046_zongzi",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:nuomi"
+      },
+      {
+        "item": "minecraft:cooked_porkchop"
+      },
+      {
+        "item": "minecraft:string"
+      },
+      {
+        "item": "foodcraft:zongye"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:zongzi",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/047_nuomituan",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:nuomifen"
+      },
+      {
+        "item": "foodcraft:nuomifen"
+      },
+      {
+        "item": "foodcraft:nuomifen"
+      },
+      {
+        "item": "foodcraft:water"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:nuomituan",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/048_huashentangyuanxian",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/crop_peanut"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:huashentangyuanxian",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/049_milling_machine",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "DBD",
+      "ECE"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:wheat"
+      },
+      "B": {
+        "item": "foodcraft:waike"
+      },
+      "C": {
+        "item": "foodcraft:dianluban"
+      },
+      "E": {
+        "item": "minecraft:milk_bucket"
+      },
+      "D": {
+        "item": "minecraft:glass"
+      }
+    },
+    "result": {
+      "item": "foodcraft:milling_machine",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/050_frying_pan",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "EBE",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/plate_iron"
+      },
+      "B": {
+        "item": "foodcraft:waike"
+      },
+      "C": {
+        "item": "foodcraft:dianluban"
+      },
+      "E": {
+        "item": "minecraft:ink_sac"
+      }
+    },
+    "result": {
+      "item": "foodcraft:frying_pan",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/051_pot",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "EBE",
+      " C "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "foodcraft:waike"
+      },
+      "C": {
+        "item": "foodcraft:dianluban"
+      },
+      "E": {
+        "item": "minecraft:ink_sac"
+      }
+    },
+    "result": {
+      "item": "foodcraft:pot",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/052_pressure_cooker",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "EBE",
+      "XCX"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot"
+      },
+      "B": {
+        "item": "foodcraft:waike"
+      },
+      "C": {
+        "item": "foodcraft:dianluban"
+      },
+      "E": {
+        "item": "minecraft:ink_sac"
+      },
+      "X": {
+        "item": "minecraft:bone_meal"
+      }
+    },
+    "result": {
+      "item": "foodcraft:pressure_cooker",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/053_cutting_board",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "ACA"
+    ],
+    "key": {
+      "A": {
+        "tag": "minecraft:planks"
+      },
+      "B": {
+        "item": "foodcraft:caidao"
+      },
+      "C": {
+        "item": "foodcraft:waike"
+      }
+    },
+    "result": {
+      "item": "foodcraft:cutting_board",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/054_deep_fryer",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "DBD",
+      "CCC"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:huashenyou"
+      },
+      "B": {
+        "item": "foodcraft:waike"
+      },
+      "C": {
+        "item": "foodcraft:dianluban"
+      },
+      "D": {
+        "item": "minecraft:glass"
+      }
+    },
+    "result": {
+      "item": "foodcraft:deep_fryer",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/055_drink_maker",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABA",
+      "CDC",
+      " F "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:redstone"
+      },
+      "B": {
+        "item": "minecraft:ice"
+      },
+      "C": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "D": {
+        "item": "foodcraft:waike"
+      },
+      "F": {
+        "item": "foodcraft:dianluban"
+      }
+    },
+    "result": {
+      "item": "foodcraft:drink_maker",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/056_fermenting_barrel",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABA",
+      "CDC",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "tag": "minecraft:planks"
+      },
+      "B": {
+        "item": "foodcraft:dianluban"
+      },
+      "C": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "D": {
+        "item": "foodcraft:waike"
+      }
+    },
+    "result": {
+      "item": "foodcraft:fermenting_barrel",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/057_stove",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABA",
+      "CDC",
+      "FBF"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:flint_and_steel"
+      },
+      "B": {
+        "item": "foodcraft:dianluban"
+      },
+      "C": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "D": {
+        "item": "foodcraft:waike"
+      },
+      "F": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "foodcraft:stove",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:smelting/shuyouyurou",
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "foodcraft:youyurou"
+    },
+    "result": "foodcraft:shuyouyurou",
+    "experience": 0.5,
+    "cookingtime": 200,
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:smelting/kaoyumi",
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "foodcraft:yumi"
+    },
+    "result": "foodcraft:kaoyumi",
+    "experience": 0.5,
+    "cookingtime": 200,
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:smelting/kaohongshu",
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "foodcraft:hongshu"
+    },
+    "result": "foodcraft:kaohongshu",
+    "experience": 0.5,
+    "cookingtime": 200,
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:smelting/yan",
+    "type": "foodcraft:smelting",
+    "ingredient": {
+      "item": "foodcraft:water"
+    },
+    "result": {
+      "item": "foodcraft:yan",
+      "count": 2
+    },
+    "experience": 0.5,
+    "cookingtime": 200,
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/058_nainao",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:milk_bucket"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:nainao",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/059_mianpi",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      {
+        "item": "foodcraft:water"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mianpi",
+      "count": 2
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/060_jiaozi",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:jiaozixian"
+      },
+      {
+        "item": "foodcraft:mianpi"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jiaozi",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/061_jinputao",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:gold_block"
+      },
+      "B": {
+        "item": "foodcraft:putao"
+      }
+    },
+    "result": {
+      "item": "foodcraft:jinputao",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/062_sugar",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": {
+      "item": "foodcraft:sugar",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/063_sugar",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "minecraft:sugar",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/064_dami_block",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_rice"
+      }
+    },
+    "result": {
+      "item": "foodcraft:dami_block",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/065_dami",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:dami_block"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:dami",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/066_huashenk",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:huashen"
+      }
+    },
+    "result": {
+      "item": "foodcraft:huashenk",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/067_huashen",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:huashenk"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:huashen",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/068_luobo",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:carrot"
+      }
+    },
+    "result": {
+      "item": "foodcraft:luobo",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/069_carrot",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:luobo"
+      }
+    ],
+    "result": {
+      "item": "minecraft:carrot",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/070_tudou",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:potato"
+      }
+    },
+    "result": {
+      "item": "foodcraft:tudou",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/071_potato",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:tudou"
+      }
+    ],
+    "result": {
+      "item": "minecraft:potato",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/072_yan_block",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:yan"
+      }
+    },
+    "result": {
+      "item": "foodcraft:yan_block",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/073_yan",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:yan_block"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yan",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/074_douzik",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_soybean"
+      }
+    },
+    "result": {
+      "item": "foodcraft:douzik",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/075_douzi",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:douzik"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:douzi",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/076_ruomi",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:nuomi"
+      }
+    },
+    "result": {
+      "item": "foodcraft:ruomi",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/077_nuomi",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:ruomi"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:nuomi",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/078_douban_block",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:douban"
+      }
+    },
+    "result": {
+      "item": "foodcraft:douban_block",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/079_douban",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:douban_block"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:douban",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/080_qiaokeli_block",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:qiaokeli"
+      }
+    },
+    "result": {
+      "item": "foodcraft:qiaokeli_block",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/081_qiaokeli",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:qiaokeli_block"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:qiaokeli",
+      "count": 9
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/082_qiaokelinaiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_chocolatemilk"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:qiaokelinaiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/083_putaozhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_grapejuice"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:putaozhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/084_pingguozhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_applejuice"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:pingguozhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/085_jinpingguozhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:jinpingguozhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinpingguozhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/086_jinputaozhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:jinputaozhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinputaozhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/087_xiguazhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "foodcraft:legacy/food_melonjuice"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:xiguazhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/088_lizhizhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:lizhizhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:lizhizhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/089_taozizhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:taozizhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:taozizhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/090_juzizhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:juzizhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:juzizhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/091_mangguozhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:mangguozhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:mangguozhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/092_ningmengzhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:ningmengzhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:ningmengzhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/093_muguazhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:muguazhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:muguazhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/094_caomeizhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:caomeizhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:caomeizhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/095_yezizhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:yezizhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yezizhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/096_xiangjiaozhiice",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:xiangjiaozhi"
+      },
+      {
+        "item": "minecraft:snowball"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:xiangjiaozhiice",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/097_jinkela",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:bone_meal"
+      },
+      "B": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    "result": {
+      "item": "foodcraft:jinkela",
+      "count": 8
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/098_scblock",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:qiaokeli_block"
+      },
+      "B": {
+        "item": "foodcraft:douban_block"
+      },
+      "C": {
+        "item": "foodcraft:luobo"
+      },
+      "D": {
+        "item": "foodcraft:douzik"
+      },
+      "E": {
+        "item": "foodcraft:huashenk"
+      },
+      "F": {
+        "item": "foodcraft:dami_block"
+      },
+      "G": {
+        "item": "foodcraft:tudou"
+      },
+      "H": {
+        "item": "foodcraft:yan_block"
+      },
+      "I": {
+        "item": "foodcraft:sugar"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scblock",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/099_scplant",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/crop_rice"
+      },
+      "B": {
+        "tag": "foodcraft:legacy/crop_peanut"
+      },
+      "C": {
+        "tag": "foodcraft:legacy/crop_soybean"
+      },
+      "D": {
+        "tag": "foodcraft:legacy/list_allveggie"
+      },
+      "E": {
+        "tag": "foodcraft:legacy/crop_chilipepper"
+      },
+      "F": {
+        "item": "foodcraft:fanqie"
+      },
+      "G": {
+        "item": "foodcraft:qiezi"
+      },
+      "H": {
+        "item": "foodcraft:putao"
+      },
+      "I": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scplant",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/100_scmw1",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:jianjidan"
+      },
+      "B": {
+        "tag": "foodcraft:legacy/food_pancakes"
+      },
+      "C": {
+        "item": "foodcraft:doufugan"
+      },
+      "D": {
+        "item": "foodcraft:chaotudoupian"
+      },
+      "E": {
+        "tag": "foodcraft:legacy/food_sausage"
+      },
+      "F": {
+        "item": "foodcraft:hetaosu"
+      },
+      "G": {
+        "item": "foodcraft:aici"
+      },
+      "H": {
+        "item": "foodcraft:niangao"
+      },
+      "I": {
+        "item": "foodcraft:chunjuan"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scmw1",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/101_scmw2",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:regou"
+      },
+      "B": {
+        "item": "foodcraft:nainao"
+      },
+      "C": {
+        "item": "foodcraft:pisa"
+      },
+      "D": {
+        "item": "foodcraft:mantou"
+      },
+      "E": {
+        "item": "foodcraft:suancaibing"
+      },
+      "F": {
+        "item": "foodcraft:latiao"
+      },
+      "G": {
+        "item": "foodcraft:mahua"
+      },
+      "H": {
+        "item": "foodcraft:lachang"
+      },
+      "I": {
+        "item": "foodcraft:larou"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scmw2",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/102_sckfc",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:hanbaobao"
+      },
+      "B": {
+        "item": "foodcraft:shutiao"
+      },
+      "C": {
+        "item": "foodcraft:jichi"
+      },
+      "D": {
+        "item": "foodcraft:jimihua"
+      },
+      "E": {
+        "item": "foodcraft:jikuai"
+      },
+      "F": {
+        "item": "foodcraft:yuanweijikuai"
+      },
+      "G": {
+        "item": "foodcraft:youtiao"
+      },
+      "H": {
+        "item": "foodcraft:kele"
+      },
+      "I": {
+        "item": "foodcraft:xuebi"
+      }
+    },
+    "result": {
+      "item": "foodcraft:sckfc",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/103_sccn",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:jiaozi"
+      },
+      "B": {
+        "item": "foodcraft:zongzi"
+      },
+      "C": {
+        "item": "foodcraft:yuebing"
+      },
+      "D": {
+        "item": "foodcraft:tangyuan"
+      },
+      "E": {
+        "item": "foodcraft:niangao"
+      },
+      "F": {
+        "item": "foodcraft:chunjuan"
+      },
+      "G": {
+        "item": "foodcraft:ciba"
+      },
+      "H": {
+        "item": "foodcraft:hetaosu"
+      },
+      "I": {
+        "item": "foodcraft:baifan"
+      }
+    },
+    "result": {
+      "item": "foodcraft:sccn",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/104_scyz",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:shupian"
+      },
+      "B": {
+        "item": "foodcraft:zhaniangao"
+      },
+      "C": {
+        "item": "foodcraft:zhaxiangchang"
+      },
+      "D": {
+        "item": "foodcraft:zhamianbao"
+      },
+      "E": {
+        "item": "foodcraft:zhamahua"
+      },
+      "F": {
+        "item": "foodcraft:zhajitui"
+      },
+      "G": {
+        "item": "foodcraft:jimihua"
+      },
+      "H": {
+        "item": "foodcraft:jikuai"
+      },
+      "I": {
+        "item": "foodcraft:yuanweijikuai"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scyz",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/105_scj",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DED",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:hongjiu"
+      },
+      "B": {
+        "item": "foodcraft:baijiu"
+      },
+      "C": {
+        "item": "foodcraft:putaojiu"
+      },
+      "D": {
+        "item": "foodcraft:jinputao"
+      },
+      "E": {
+        "item": "minecraft:golden_apple"
+      },
+      "G": {
+        "item": "foodcraft:pingguojiu"
+      },
+      "H": {
+        "item": "foodcraft:jinputaojiu"
+      },
+      "I": {
+        "item": "foodcraft:jinpingguojiu"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/106_scshui1",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:qiaokelishui"
+      },
+      "B": {
+        "tag": "foodcraft:legacy/food_grapejuice"
+      },
+      "C": {
+        "tag": "foodcraft:legacy/food_applejuice"
+      },
+      "D": {
+        "tag": "foodcraft:legacy/crop_coffee"
+      },
+      "E": {
+        "item": "minecraft:apple"
+      },
+      "F": {
+        "tag": "foodcraft:legacy/food_chocolatemilk"
+      },
+      "G": {
+        "item": "foodcraft:dounai"
+      },
+      "H": {
+        "tag": "foodcraft:legacy/food_melonjuice"
+      },
+      "I": {
+        "item": "foodcraft:naicha"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scshui1",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/107_scshui2",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:huluobozhi"
+      },
+      "B": {
+        "item": "foodcraft:cha"
+      },
+      "C": {
+        "tag": "foodcraft:legacy/food_vegetablesoup"
+      },
+      "D": {
+        "item": "foodcraft:pingguozhiice"
+      },
+      "E": {
+        "item": "foodcraft:putaozhiice"
+      },
+      "F": {
+        "tag": "foodcraft:legacy/crop_coffee"
+      },
+      "G": {
+        "item": "foodcraft:xiguazhiice"
+      },
+      "H": {
+        "item": "foodcraft:qiaokelinaiice"
+      },
+      "I": {
+        "item": "foodcraft:naicha"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scshui2",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/108_scfan1",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:fanqiechaojidanfan"
+      },
+      "B": {
+        "item": "foodcraft:disanxian"
+      },
+      "C": {
+        "item": "foodcraft:yuxiangrousi"
+      },
+      "D": {
+        "item": "foodcraft:gongbaojiding"
+      },
+      "E": {
+        "item": "foodcraft:chaotudousifan"
+      },
+      "F": {
+        "item": "foodcraft:duojiaoyutou"
+      },
+      "G": {
+        "item": "foodcraft:mapodoufufan"
+      },
+      "H": {
+        "item": "foodcraft:hongshaoroufan"
+      },
+      "I": {
+        "item": "foodcraft:huiguoroufan"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scfan1",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/109_scfan2",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:aeljichifan"
+      },
+      "B": {
+        "item": "foodcraft:laziji"
+      },
+      "C": {
+        "item": "foodcraft:koushuiji"
+      },
+      "D": {
+        "item": "foodcraft:baiqiuji"
+      },
+      "E": {
+        "item": "foodcraft:congyouji"
+      },
+      "F": {
+        "item": "foodcraft:suancaiyu"
+      },
+      "G": {
+        "item": "foodcraft:malayu"
+      },
+      "H": {
+        "item": "foodcraft:qingzhenyu"
+      },
+      "I": {
+        "item": "foodcraft:kelejichifan"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scfan2",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/110_scfan3",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:galijiroufan"
+      },
+      "B": {
+        "item": "foodcraft:shuizhuniurou"
+      },
+      "C": {
+        "item": "foodcraft:yifen"
+      },
+      "D": {
+        "item": "foodcraft:ribendoufu"
+      },
+      "E": {
+        "tag": "foodcraft:legacy/list_allveggie"
+      },
+      "F": {
+        "item": "foodcraft:yifenpork"
+      },
+      "G": {
+        "item": "foodcraft:changfen"
+      },
+      "H": {
+        "item": "foodcraft:yifenchicken"
+      },
+      "I": {
+        "item": "foodcraft:yifenbeef"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scfan3",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/111_scth",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "DED",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:jinpingguojiu"
+      },
+      "B": {
+        "item": "foodcraft:jinputaozhi"
+      },
+      "C": {
+        "item": "foodcraft:jinpingguojiu"
+      },
+      "D": {
+        "item": "minecraft:golden_apple"
+      },
+      "E": {
+        "item": "foodcraft:jinputao"
+      },
+      "G": {
+        "item": "foodcraft:jinpingguozhiice"
+      },
+      "H": {
+        "item": "foodcraft:jinpingguozhi"
+      },
+      "I": {
+        "item": "foodcraft:jinputaozhiice"
+      }
+    },
+    "result": {
+      "item": "foodcraft:scth",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/112_anlanzhishi",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "#X#",
+      "DEF"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:scshui1"
+      },
+      "B": {
+        "item": "foodcraft:scshui2"
+      },
+      "C": {
+        "item": "foodcraft:scfan1"
+      },
+      "D": {
+        "item": "foodcraft:scfan2"
+      },
+      "E": {
+        "item": "foodcraft:scfan3"
+      },
+      "F": {
+        "item": "foodcraft:scblock"
+      },
+      "#": {
+        "item": "minecraft:iron_ingot"
+      },
+      "X": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "foodcraft:anlanzhishi",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/113_anbizhishi",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "ABC",
+      "#X#",
+      "DEF"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:scmw1"
+      },
+      "B": {
+        "item": "foodcraft:scmw2"
+      },
+      "C": {
+        "item": "foodcraft:sckfc"
+      },
+      "D": {
+        "item": "foodcraft:sccn"
+      },
+      "E": {
+        "item": "foodcraft:scyz"
+      },
+      "F": {
+        "item": "foodcraft:scplant"
+      },
+      "#": {
+        "item": "minecraft:iron_ingot"
+      },
+      "X": {
+        "item": "minecraft:emerald"
+      }
+    },
+    "result": {
+      "item": "foodcraft:anbizhishi",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/114_zongjiqianguzhishi",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "CDE",
+      "BBB"
+    ],
+    "key": {
+      "A": {
+        "item": "foodcraft:anlanzhishi"
+      },
+      "C": {
+        "item": "foodcraft:scth"
+      },
+      "B": {
+        "item": "foodcraft:anbizhishi"
+      },
+      "E": {
+        "item": "foodcraft:scj"
+      },
+      "D": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "foodcraft:zongjiqianguzhishi",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/115_putao_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:putao_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:putao_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/116_jinputao_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:jinputao_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinputao_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/117_li_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:li_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:li_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/118_taozi_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:taozi_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:taozi_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/119_juzi_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:juzi_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:juzi_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/120_ningmeng_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:ningmeng_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:ningmeng_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/121_caomei_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:caomei_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:caomei_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/122_yezi_dg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:yezi_gj"
+      },
+      {
+        "item": "minecraft:cake"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yezi_dg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/123_putao_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:putao_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:putao_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/124_jinputao_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:jinputao_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinputao_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/125_li_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:li_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:li_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/126_taozi_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:taozi_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:taozi_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/127_juzi_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:juzi_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:juzi_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/128_ningmeng_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:ningmeng_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:ningmeng_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/129_caomei_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:caomei_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:caomei_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/130_yezi_bg",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:binggan_f"
+      },
+      {
+        "item": "foodcraft:yezi_gj"
+      },
+      {
+        "item": "foodcraft:binggan_f"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yezi_bg",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/131_binggan_f",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "BBB",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "B": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "foodcraft:binggan_f",
+      "count": 3
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/132_binggan_xn",
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "tag": "foodcraft:legacy/food_flour"
+      },
+      "B": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "item": "foodcraft:binggan_xn",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/133_putao_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:putao"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:putao_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/134_jinputao_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:jinputao"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:jinputao_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/135_li_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:li"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:li_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/136_taozi_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:taozi"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:taozi_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/137_juzi_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:juzi"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:juzi_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/138_ningmeng_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:ningmeng"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:ningmeng_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/139_caomei_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:caomei"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:caomei_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  },
+  {
+    "id": "foodcraft:crafting/140_yezi_gj",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "foodcraft:water"
+      },
+      {
+        "item": "foodcraft:yezi"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "foodcraft:yezi_gj",
+      "count": 1
+    },
+    "source": "recipe/Recipe.java"
+  }
+]

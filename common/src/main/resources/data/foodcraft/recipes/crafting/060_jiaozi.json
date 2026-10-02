@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:jiaozixian"
+    },
+    {
+      "item": "foodcraft:mianpi"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:jiaozi",
+    "count": 1
+  }
+}

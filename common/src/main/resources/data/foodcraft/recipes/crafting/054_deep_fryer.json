@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "DBD",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:huashenyou"
+    },
+    "B": {
+      "item": "foodcraft:waike"
+    },
+    "C": {
+      "item": "foodcraft:dianluban"
+    },
+    "D": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "foodcraft:deep_fryer",
+    "count": 1
+  }
+}

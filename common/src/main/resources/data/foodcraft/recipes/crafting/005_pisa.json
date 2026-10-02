@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/food_pancakes"
+    },
+    {
+      "tag": "foodcraft:legacy/list_allmeatcooked"
+    },
+    {
+      "tag": "foodcraft:legacy/list_allveggie"
+    },
+    {
+      "tag": "foodcraft:legacy/food_cheese"
+    },
+    {
+      "tag": "foodcraft:mushrooms"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:pisa",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    " A ",
+    " A "
+  ],
+  "key": {
+    "A": [
+      {
+        "tag": "forge:ingots/iron"
+      },
+      {
+        "tag": "c:iron_ingots"
+      },
+      {
+        "tag": "c:ingots_iron"
+      }
+    ]
+  },
+  "result": {
+    "item": "foodcraft:wrench",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "DBD",
+    "ECE"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:wheat"
+    },
+    "B": {
+      "item": "foodcraft:waike"
+    },
+    "C": {
+      "item": "foodcraft:dianluban"
+    },
+    "E": {
+      "item": "minecraft:milk_bucket"
+    },
+    "D": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "foodcraft:milling_machine",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "foodcraft:legacy/food_ricesoup"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "tag": "foodcraft:legacy/crop_peanut"
+    },
+    {
+      "item": "foodcraft:fan"
+    },
+    {
+      "tag": "foodcraft:legacy/crop_soybean"
+    },
+    {
+      "item": "foodcraft:larou"
+    },
+    {
+      "item": "foodcraft:nuomi"
+    },
+    {
+      "item": "foodcraft:lachang"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:labazhou",
+    "count": 1
+  }
+}

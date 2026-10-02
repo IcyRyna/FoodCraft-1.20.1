@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "foodcraft:block/zl_side",
+    "down": "foodcraft:block/zl_down",
+    "up": "foodcraft:block/zl_top",
+    "north": "foodcraft:block/zl_side",
+    "south": "foodcraft:block/zl_side",
+    "east": "foodcraft:block/zl_side",
+    "west": "foodcraft:block/zl_side"
+  }
+}

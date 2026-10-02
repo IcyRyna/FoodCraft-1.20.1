@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DED",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "foodcraft:hongjiu"
+    },
+    "B": {
+      "item": "foodcraft:baijiu"
+    },
+    "C": {
+      "item": "foodcraft:putaojiu"
+    },
+    "D": {
+      "item": "foodcraft:jinputao"
+    },
+    "E": {
+      "item": "minecraft:golden_apple"
+    },
+    "G": {
+      "item": "foodcraft:pingguojiu"
+    },
+    "H": {
+      "item": "foodcraft:jinputaojiu"
+    },
+    "I": {
+      "item": "foodcraft:jinpingguojiu"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scj",
+    "count": 1
+  }
+}

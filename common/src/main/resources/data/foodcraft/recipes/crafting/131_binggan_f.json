@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "foodcraft:legacy/food_flour"
+    },
+    "B": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "foodcraft:binggan_f",
+    "count": 3
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:frying_pan",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "foodcraft:yumi"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:baoyumihua",
+    "count": 1
+  },
+  "time": 400,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 250,
+  "max_heat": 330,
+  "experience": 0.5,
+  "exclusive_slots": [
+    0
+  ]
+}

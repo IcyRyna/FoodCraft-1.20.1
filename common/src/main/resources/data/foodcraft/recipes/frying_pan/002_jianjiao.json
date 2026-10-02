@@ -1,0 +1,26 @@
+{
+  "type": "foodcraft:frying_pan",
+  "inputs": [
+    {
+      "slot": 0,
+      "ingredient": {
+        "item": "foodcraft:jiaozi"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "foodcraft:jianjiao",
+    "count": 1
+  },
+  "time": 400,
+  "water": 0,
+  "milk": false,
+  "cold": false,
+  "min_heat": 350,
+  "max_heat": 400,
+  "experience": 0.5,
+  "exclusive_slots": [
+    0
+  ]
+}

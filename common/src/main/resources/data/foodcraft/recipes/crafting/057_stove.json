@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "FBF"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "B": {
+      "item": "foodcraft:dianluban"
+    },
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "D": {
+      "item": "foodcraft:waike"
+    },
+    "F": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "foodcraft:stove",
+    "count": 1
+  }
+}

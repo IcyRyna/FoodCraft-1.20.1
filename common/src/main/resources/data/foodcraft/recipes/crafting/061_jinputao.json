@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:gold_block"
+    },
+    "B": {
+      "item": "foodcraft:putao"
+    }
+  },
+  "result": {
+    "item": "foodcraft:jinputao",
+    "count": 1
+  }
+}

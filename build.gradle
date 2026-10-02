@@ -1,0 +1,30 @@
+plugins {
+    id 'base'
+    id 'net.minecraftforge.gradle' version '6.0.42' apply false
+    id 'fabric-loom' version '1.7.4' apply false
+}
+def configuredWork = providers.environmentVariable('FOODCRAFT_WORK_DIR').orNull
+ext.foodcraftWorkDir = configuredWork ? file(configuredWork).canonicalFile :
+        (rootDir.parentFile.name == 'outputs' ? new File(rootDir, '../../work') : new File(rootDir.parentFile, 'foodcraft-work')).canonicalFile
+allprojects {
+    group = 'org.foodcraft'
+    version = rootProject.mod_version
+    repositories {
+        if (providers.gradleProperty('foodcraftMavenMirror').isPresent()) {
+            maven { url = providers.gradleProperty('foodcraftMavenMirror').get(); allowInsecureProtocol = true }
+        }
+        mavenCentral()
+        maven { url = 'https://maven.blamejared.com/' }
+        maven { url = 'https://maven.fabricmc.net/' }
+    }
+}
+subprojects {
+    plugins.withId('java') {
+        java { toolchain.languageVersion = JavaLanguageVersion.of(17) }
+        tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8'; options.release = 17 }
+        tasks.withType(AbstractArchiveTask).configureEach {
+            preserveFileTimestamps = false
+            reproducibleFileOrder = true
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "EBE",
+    "XCX"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "foodcraft:waike"
+    },
+    "C": {
+      "item": "foodcraft:dianluban"
+    },
+    "E": {
+      "item": "minecraft:ink_sac"
+    },
+    "X": {
+      "item": "minecraft:bone_meal"
+    }
+  },
+  "result": {
+    "item": "foodcraft:pressure_cooker",
+    "count": 1
+  }
+}

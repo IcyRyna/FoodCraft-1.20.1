@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "foodcraft:hongshu"
+  },
+  "result": "foodcraft:kaohongshu",
+  "experience": 0.5,
+  "cookingtime": 200
+}

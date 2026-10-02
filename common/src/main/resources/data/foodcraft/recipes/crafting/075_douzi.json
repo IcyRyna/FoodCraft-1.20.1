@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "foodcraft:douzik"
+    }
+  ],
+  "result": {
+    "item": "foodcraft:douzi",
+    "count": 9
+  }
+}

@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GPL-3.0-or-later"
+[[mods]]
+modId="foodcraft"
+version="2.0.0"
+displayName="FoodCraft 食物工艺"
+authors="Infinity Studio, Darost, 3TUSK, LasmGratel; 1.20.1 port contributors"
+description='''Complete food, farming, cooking and machine systems from FoodCraft 1.7.10.'''
+[[dependencies.foodcraft]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.foodcraft]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

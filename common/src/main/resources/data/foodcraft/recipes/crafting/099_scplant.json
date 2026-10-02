@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "foodcraft:legacy/crop_rice"
+    },
+    "B": {
+      "tag": "foodcraft:legacy/crop_peanut"
+    },
+    "C": {
+      "tag": "foodcraft:legacy/crop_soybean"
+    },
+    "D": {
+      "tag": "foodcraft:legacy/list_allveggie"
+    },
+    "E": {
+      "tag": "foodcraft:legacy/crop_chilipepper"
+    },
+    "F": {
+      "item": "foodcraft:fanqie"
+    },
+    "G": {
+      "item": "foodcraft:qiezi"
+    },
+    "H": {
+      "item": "foodcraft:putao"
+    },
+    "I": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "foodcraft:scplant",
+    "count": 1
+  }
+}

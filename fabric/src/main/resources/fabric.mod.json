@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "foodcraft",
+  "version": "2.0.0",
+  "name": "FoodCraft 食物工艺",
+  "description": "Complete food, farming and cooking systems from FoodCraft 1.7.10.",
+  "authors": [
+    "Infinity Studio",
+    "Darost",
+    "3TUSK",
+    "LasmGratel",
+    "1.20.1 port contributors"
+  ],
+  "license": "GPL-3.0-or-later",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.foodcraft.fabric.FoodCraftFabric"
+    ],
+    "client": [
+      "org.foodcraft.fabric.FabricClient"
+    ],
+    "fabric-gametest": [
+      "org.foodcraft.fabric.FabricGameTests"
+    ],
+    "jei_mod_plugin": [
+      "org.foodcraft.compat.FoodCraftJei"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "fabric-api": ">=0.92.2+1.20.1",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  },
+  "mixins": [
+    "foodcraft.mixins.json",
+    "foodcraft.fabric.mixins.json"
+  ]
+}
