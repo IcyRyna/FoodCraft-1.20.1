@@ -1,0 +1,877 @@
+{
+  "textures": [
+    {
+      "id": "foodcraft:baifan",
+      "name": "米饭",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itembaifan.png",
+      "sourceSha256": "c597a44b2b41312644b93e24b2530ac5f0c44baec510065a1051a8c220f1a0ed",
+      "file": "icon-foodcraft-baifan.png",
+      "sha256": "1ae6b232093fa2489bfc6f4b16c217250ad0c3b44a4ad011e093b6d63fe56c2c"
+    },
+    {
+      "id": "foodcraft:caidao",
+      "name": "菜刀",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemcaidao.png",
+      "sourceSha256": "d8427d95f79c4a5de045ded21f7f58ad6828977bb098f73704d7dc2d44a6f7c1",
+      "file": "icon-foodcraft-caidao.png",
+      "sha256": "df0aa536da2060b24aed23391581af1817b24a2da5379f362d5d21ae6fa38d8f"
+    },
+    {
+      "id": "foodcraft:caidao_hj",
+      "name": "黄金菜刀",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemcaidaohj.png",
+      "sourceSha256": "21f6fb5403e918304766d8b361b4279de001a389928ccfd1380dd889957abe34",
+      "file": "icon-foodcraft-caidao_hj.png",
+      "sha256": "8bd11ebb403a55ccb6a916918e2a23d061235802d2b6325d86a0b729c94885e5"
+    },
+    {
+      "id": "foodcraft:caidao_lbs",
+      "name": "绿宝石菜刀",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemcaidaolbs.png",
+      "sourceSha256": "8fd6d7ce0299d0ee11c477c7bed4b030d356cc21be37821e2ef661a12003d26c",
+      "file": "icon-foodcraft-caidao_lbs.png",
+      "sha256": "4031b7b5b6f577146f096ead266fdd89f8adc2b9a630856530ca8523f776d173"
+    },
+    {
+      "id": "foodcraft:caidao_zs",
+      "name": "钻石菜刀",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemcaidaozs.png",
+      "sourceSha256": "35feede2dc617c21dff71cb081004fdb630ec4b67cf8659d2639278969fd7b2f",
+      "file": "icon-foodcraft-caidao_zs.png",
+      "sha256": "9892ade566e8ba7987bc3516e02bee841bd9ca9d304674972ebd517de3eb19cf"
+    },
+    {
+      "id": "foodcraft:dami",
+      "name": "水稻",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemdami.png",
+      "sourceSha256": "49335f6cffbe8d0355e45ded77b96dd9a2cae8a6757babe8ea751bf3f41adb6c",
+      "file": "icon-foodcraft-dami.png",
+      "sha256": "c7680b251a076009aa239fd27eb31446130447434d70d267cb0fb72e755e0559"
+    },
+    {
+      "id": "foodcraft:fan",
+      "name": "大米",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemfan.png",
+      "sourceSha256": "8abe7c0b412ff61272d5739de62eca08d42eb82d4c29c9b67807eca1c004edd2",
+      "file": "icon-foodcraft-fan.png",
+      "sha256": "6f03c1af02f25b2a6333a6a4c17958a06a44635fc809d8e45a3147e1167c54cc"
+    },
+    {
+      "id": "foodcraft:hongjiu",
+      "name": "红酒",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemhongjiu.png",
+      "sourceSha256": "8cca1edfed162544754d3703f1b55eaa34e006aa2fde4cbfd1e18da5f16f5282",
+      "file": "icon-foodcraft-hongjiu.png",
+      "sha256": "8764c4d9c2926cabf2fc3db233bc5a113d49caf5dea6a0ce6a9549ebc1edd35a"
+    },
+    {
+      "id": "foodcraft:huashen",
+      "name": "花生",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemhuashen.png",
+      "sourceSha256": "dacd098a2e138561283bf6314ef219d4fd323682f416b59c4711ab29e9d73440",
+      "file": "icon-foodcraft-huashen.png",
+      "sha256": "e33d97381beda5775a29416a736fece88d1681fb06fa4ef29346a4a69af674d3"
+    },
+    {
+      "id": "foodcraft:huashentangyuanxian",
+      "name": "花生汤圆馅",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemhuashentangyuanxian.png",
+      "sourceSha256": "2fa86ffe850715e75c4521293d067b63df958e2f9874b2589019f9407dd679b1",
+      "file": "icon-foodcraft-huashentangyuanxian.png",
+      "sha256": "c15ce5bb517b168241a573d6662557dc75877abaa75b3f3e85e726c5b18f1161"
+    },
+    {
+      "id": "foodcraft:huashenyou",
+      "name": "花生油",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemhuashenyou.png",
+      "sourceSha256": "2b0c8ce69efbe9e136fb1d83c4654080158613555ec3dc5849efb05cd900d38c",
+      "file": "icon-foodcraft-huashenyou.png",
+      "sha256": "0193752618369b7a9f7bc0d6b5fbaddf698cfa34d9a0d37217fb408aede69719"
+    },
+    {
+      "id": "foodcraft:jianjiao",
+      "name": "煎饺",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemjianjiao0.png",
+      "sourceSha256": "fae57a88b61504f697187f055913e518a53683f87a7d26ea3a6b06d2aa42c28b",
+      "file": "icon-foodcraft-jianjiao.png",
+      "sha256": "ece160691e2abfa02d487a0eddcc42994824561bceda776c96d8cdb9818c4b72"
+    },
+    {
+      "id": "foodcraft:jianjidan",
+      "name": "荷包蛋",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemjianjidan.png",
+      "sourceSha256": "fbf370f4bd8c143033daa0225e17e1384af33969c6dfa8e474287c28f8a86b02",
+      "file": "icon-foodcraft-jianjidan.png",
+      "sha256": "d9a5a34ca97a6c567b4eb1e307dfbd97df8b24702ec269da511ebb09b78201dd"
+    },
+    {
+      "id": "foodcraft:jiaozi",
+      "name": "饺子",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemjiaozi.png",
+      "sourceSha256": "b779e15d80b6f6e0c59d6fecd0bf598b9934539e6f5f155df4a10f77ac76ce9d",
+      "file": "icon-foodcraft-jiaozi.png",
+      "sha256": "5f007653f13ecb6661ee65d8d804ac3e0cf5cb9044fd876cb46e79670ffee10b"
+    },
+    {
+      "id": "foodcraft:jitui",
+      "name": "鸡腿",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemjitui.png",
+      "sourceSha256": "b37b16259ea3be1b209adf6bb98fa72ce0d41f4523b7da50440e3d90e380e4f5",
+      "file": "icon-foodcraft-jitui.png",
+      "sha256": "013e699c294c666e51e115c509cbd0b4b4416c10c1d82d33873bb2e80e43b5d0"
+    },
+    {
+      "id": "foodcraft:mahua",
+      "name": "麻花",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemmahua.png",
+      "sourceSha256": "8d0ad149f2c896f66f9303dd74cc5f756caed75e15ab4c639f58ba6d3be2a99d",
+      "file": "icon-foodcraft-mahua.png",
+      "sha256": "ceb8d0e7809323dadb60679d581b359ded98ba9182e5361478e8d4de5b9498ba"
+    },
+    {
+      "id": "foodcraft:mianfen",
+      "name": "面粉",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemmianfen.png",
+      "sourceSha256": "644dad821e7f74b6380f10e76ba2e2b890a135005f96132ce5c807f94698db90",
+      "file": "icon-foodcraft-mianfen.png",
+      "sha256": "ca75d3a012dcfde48a476c59ff5f45a5b007ea5908684f7de291e359dbf48b3a"
+    },
+    {
+      "id": "foodcraft:nuomituan",
+      "name": "糯米团",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemnuomituan.png",
+      "sourceSha256": "984352c79121c00b3c83e2bd8ffefcbb1436d19ff4104e11fe212da8a81b8eb5",
+      "file": "icon-foodcraft-nuomituan.png",
+      "sha256": "afe2b9ba04883c8ccc24c19c7b2194317fc11a73a8835ebc36b064e9e890dd8d"
+    },
+    {
+      "id": "foodcraft:putao",
+      "name": "葡萄",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemputao.png",
+      "sourceSha256": "73e2bebcf0f6a60b0d21243439b21cace183f9d0da8628bc9e0c695d02c8c956",
+      "file": "icon-foodcraft-putao.png",
+      "sha256": "f5d84e0983d028ea471f623131b2f11d0864e31fe5a2cf7d85001e0fc785adb0"
+    },
+    {
+      "id": "foodcraft:putaojiu",
+      "name": "葡萄酒",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemputaojiu.png",
+      "sourceSha256": "fd897a06b01648511c52ede1b9c8b086210851e40381ca56020c57ee85f3d4b8",
+      "file": "icon-foodcraft-putaojiu.png",
+      "sha256": "fc99e4b16e0d820730d2b5eb3d1d64e26dfd2f828cadd03b7ecf23d1e4415369"
+    },
+    {
+      "id": "foodcraft:putaozhi",
+      "name": "葡萄汁",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemputaozhi.png",
+      "sourceSha256": "d185a11955840f1a8078e98039b3847871213a0a333f79775fff4bf46a427dc2",
+      "file": "icon-foodcraft-putaozhi.png",
+      "sha256": "4ff4e9ba133c96c6236a31c95e6b4041caf20fd6659d764322f1fa11c11b9a42"
+    },
+    {
+      "id": "foodcraft:qiaokeli",
+      "name": "巧克力",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemqiaokeli.png",
+      "sourceSha256": "5b91894b67e140a600f58060a5a0749b549050029c3816ca0f32544f0f3975d4",
+      "file": "icon-foodcraft-qiaokeli.png",
+      "sha256": "174278a0310a1292c087de56402c3cbc50af8b2ad25b5d3e01aa6f1ba48bfb68"
+    },
+    {
+      "id": "foodcraft:qiaokelinai",
+      "name": "巧克力奶",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemqiaokelinai.png",
+      "sourceSha256": "6c138cd0339429cc4b9374288b02c350c03f4649f998f64a38e9bcb833acd298",
+      "file": "icon-foodcraft-qiaokelinai.png",
+      "sha256": "72da1ef10a8f6044f2c1aa34a20b01915b2d6bd5616f7767b9f15876bcc1f84d"
+    },
+    {
+      "id": "foodcraft:tangyuan",
+      "name": "汤圆",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemtangyuan.png",
+      "sourceSha256": "f1942433d48e2e2fd7136ea719b07c0b223589aa55ed45dd1865988ac837c40a",
+      "file": "icon-foodcraft-tangyuan.png",
+      "sha256": "61e387cf282e2bc7f8df78ff032e389257eb468d046da6ffe469da742badd267"
+    },
+    {
+      "id": "foodcraft:tudoupian",
+      "name": "土豆片",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemtudoupian.png",
+      "sourceSha256": "e2d22712261f5fd4f6dbec961d9bb8fc2c5159c7ce1cdce96469f48c14d6894f",
+      "file": "icon-foodcraft-tudoupian.png",
+      "sha256": "6bfceda1b4dc0cfdc3632f81a8c655ac4202375f42a523afe56100d0de113575"
+    },
+    {
+      "id": "foodcraft:zhajitui",
+      "name": "炸鸡腿",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemzhajitui.png",
+      "sourceSha256": "397936d2b400cff22ec13ba91995d87e69b5bf1e654dfac9c5fc405759d88dd7",
+      "file": "icon-foodcraft-zhajitui.png",
+      "sha256": "531ddc7cc74dd383762febb33be0a6b79c08398e3860a7ced7453575dfae9f6a"
+    },
+    {
+      "id": "foodcraft:zhamahua",
+      "name": "炸麻花",
+      "source": "common/src/main/resources/assets/foodcraft/textures/item/itemzhamahua.png",
+      "sourceSha256": "479fcd8fb62e40fe10848dfc1c56bfb6283e6e98391c871733ce741bcf69381d",
+      "file": "icon-foodcraft-zhamahua.png",
+      "sha256": "35458491af45d909aa3d06bfa0b1d7b15434c26d16204701c33d551d54b67fa9"
+    },
+    {
+      "id": "minecraft:coal",
+      "name": "燃料",
+      "source": "assets/minecraft/textures/item/coal.png",
+      "sourceSha256": "1fc55287c9b4a151af132727a0178fb7eec857eaf23bba2aecd6ede1e106b108",
+      "file": "icon-minecraft-coal.png",
+      "sha256": "1d10b22af4c58843b4c893e964f2e5d1ab9e9bba2771d9da1fb5f56c8e524e02"
+    },
+    {
+      "id": "minecraft:cooked_chicken",
+      "name": "熟鸡肉",
+      "source": "assets/minecraft/textures/item/cooked_chicken.png",
+      "sourceSha256": "be65f5417b8efc08fb7e4b79afbb69546b88dd179a4b2417a94eadf19ef15a6c",
+      "file": "icon-minecraft-cooked_chicken.png",
+      "sha256": "5cd0b4cd023e225009a0e7195bc391319d1e46e7b1dfe90fc3b239183b7077b2"
+    },
+    {
+      "id": "minecraft:egg",
+      "name": "鸡蛋",
+      "source": "assets/minecraft/textures/item/egg.png",
+      "sourceSha256": "3bfccf5fcfe66933d591e944f6b08456c8083f5c3898b924da52bfebc41e6322",
+      "file": "icon-minecraft-egg.png",
+      "sha256": "e1bb0f36df036e3a30a4756f83d5ee9f1dcf8759b3158c32593524cb49c872bd"
+    },
+    {
+      "id": "minecraft:ice",
+      "name": "冰",
+      "source": "assets/minecraft/textures/block/ice.png",
+      "sourceSha256": "5714a0cf500bfdc7666ef8965779c171bb3ac23c6c7fe4bcf120f9e6cee07402",
+      "file": "icon-minecraft-ice.png",
+      "sha256": "b2d7cbd258ee3e0c12d3ba58f4f952516311d60573a75461d5616419bc13f19d"
+    },
+    {
+      "id": "minecraft:milk_bucket",
+      "name": "牛奶",
+      "source": "assets/minecraft/textures/item/milk_bucket.png",
+      "sourceSha256": "4fe54fe49384a16fead5dec458363eb6656660cde88e53eb1c4adbee3c88a6a1",
+      "file": "icon-minecraft-milk_bucket.png",
+      "sha256": "2323b8997e784817aa59cb1014bc57c01ed66f1fd1b687c6c3446550077e42e2"
+    },
+    {
+      "id": "minecraft:potato",
+      "name": "土豆",
+      "source": "assets/minecraft/textures/item/potato.png",
+      "sourceSha256": "f1f0d5fe658ed9e2e6f550f72d82b919683011b452a1f0d989213c9a78371dca",
+      "file": "icon-minecraft-potato.png",
+      "sha256": "f38efd1e0bcc8bb2c6016d778c853af580e92f9c0cf9732bec603bbbcc09d996"
+    },
+    {
+      "id": "minecraft:water_bucket",
+      "name": "水",
+      "source": "assets/minecraft/textures/item/water_bucket.png",
+      "sourceSha256": "6e69a3f9319fc09a946a5e688d4e76781e3b0aaf9d4984589a52226f6d6dba55",
+      "file": "icon-minecraft-water_bucket.png",
+      "sha256": "b60eaa497329b57849bdf3180ea0a63aec90b9257ffdd3884b81580adddde7bf"
+    },
+    {
+      "id": "minecraft:wheat",
+      "name": "小麦",
+      "source": "assets/minecraft/textures/item/wheat.png",
+      "sourceSha256": "838cdc9c83ee91b4db431d8265255b0c6fe2c21f745b7e25a37d48a5bdf3f7a2",
+      "file": "icon-minecraft-wheat.png",
+      "sha256": "4dc799fd8d134a34b4c2068692ad3f99cadd6a73752ef16a4af0df7544270e59"
+    }
+  ],
+  "recipes": [
+    {
+      "id": "foodcraft:milling_machine/000_fan",
+      "type": "foodcraft:milling_machine",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:dami"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:fan",
+        "count": 1
+      },
+      "time": 200,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.7,
+      "exclusive_slots": [
+        0
+      ],
+      "source": "gui/recipes/Nmjrecipe.java"
+    },
+    {
+      "id": "foodcraft:milling_machine/001_mianfen",
+      "type": "foodcraft:milling_machine",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "minecraft:wheat"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:mianfen",
+        "count": 2
+      },
+      "time": 200,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.5,
+      "exclusive_slots": [
+        0
+      ],
+      "source": "gui/recipes/Nmjrecipe.java"
+    },
+    {
+      "id": "foodcraft:milling_machine/002_huashenyou",
+      "type": "foodcraft:milling_machine",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:huashen"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:huashenyou",
+        "count": 1
+      },
+      "time": 200,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.5,
+      "exclusive_slots": [
+        0
+      ],
+      "source": "gui/recipes/Nmjrecipe.java"
+    },
+    {
+      "id": "foodcraft:cutting_board/007_jitui",
+      "type": "foodcraft:cutting_board",
+      "inputs": [
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "minecraft:cooked_chicken"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:jitui",
+        "count": 2
+      },
+      "time": 1,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.0,
+      "exclusive_slots": [
+        1,
+        2,
+        3
+      ],
+      "source": "gui/recipes/Caibanrecipe.java"
+    },
+    {
+      "id": "foodcraft:cutting_board/005_tudoupian",
+      "type": "foodcraft:cutting_board",
+      "inputs": [
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "minecraft:potato"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:tudoupian",
+        "count": 3
+      },
+      "time": 1,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.0,
+      "exclusive_slots": [
+        1,
+        2,
+        3
+      ],
+      "source": "gui/recipes/Caibanrecipe.java"
+    },
+    {
+      "id": "foodcraft:pot/009_tangyuan",
+      "type": "foodcraft:pot",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:nuomituan"
+          },
+          "count": 1
+        },
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "foodcraft:huashentangyuanxian"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:tangyuan",
+        "count": 1
+      },
+      "time": 500,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 400,
+      "max_heat": 500,
+      "experience": 0.0,
+      "exclusive_slots": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "source": "gui/recipes/Guorecipe.java"
+    },
+    {
+      "id": "foodcraft:frying_pan/000_jianjidan",
+      "type": "foodcraft:frying_pan",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "minecraft:egg"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:jianjidan",
+        "count": 1
+      },
+      "time": 400,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 250,
+      "max_heat": 400,
+      "experience": 0.5,
+      "exclusive_slots": [
+        0
+      ],
+      "source": "gui/recipes/PDGrecipe.java"
+    },
+    {
+      "id": "foodcraft:frying_pan/002_jianjiao",
+      "type": "foodcraft:frying_pan",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:jiaozi"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:jianjiao",
+        "count": 1
+      },
+      "time": 400,
+      "water": 0,
+      "milk": false,
+      "cold": false,
+      "min_heat": 350,
+      "max_heat": 400,
+      "experience": 0.5,
+      "exclusive_slots": [
+        0
+      ],
+      "source": "gui/recipes/PDGrecipe.java"
+    },
+    {
+      "id": "foodcraft:pressure_cooker/000_baifan",
+      "type": "foodcraft:pressure_cooker",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:fan"
+          },
+          "count": 1
+        },
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "foodcraft:fan"
+          },
+          "count": 1
+        },
+        {
+          "slot": 2,
+          "ingredient": {
+            "item": "foodcraft:fan"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:baifan",
+        "count": 1
+      },
+      "time": 480,
+      "water": 2,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.0,
+      "exclusive_slots": [
+        0,
+        1,
+        2
+      ],
+      "source": "gui/recipes/Gygrecipe.java"
+    },
+    {
+      "id": "foodcraft:deep_fryer/000_zhajitui",
+      "type": "foodcraft:deep_fryer",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:jitui"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:zhajitui",
+        "count": 1
+      },
+      "time": 400,
+      "water": 2,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.5,
+      "exclusive_slots": [
+        0
+      ],
+      "source": "gui/recipes/YZJrecipe.java"
+    },
+    {
+      "id": "foodcraft:deep_fryer/001_zhamahua",
+      "type": "foodcraft:deep_fryer",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:mahua"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:zhamahua",
+        "count": 1
+      },
+      "time": 400,
+      "water": 2,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.5,
+      "exclusive_slots": [
+        0
+      ],
+      "source": "gui/recipes/YZJrecipe.java"
+    },
+    {
+      "id": "foodcraft:drink_maker/012_putaozhi",
+      "type": "foodcraft:drink_maker",
+      "inputs": [
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "foodcraft:putao"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:putaozhi",
+        "count": 1
+      },
+      "time": 350,
+      "water": 1,
+      "milk": false,
+      "cold": true,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.0,
+      "exclusive_slots": [
+        1
+      ],
+      "source": "gui/recipes/Tpjrecipe.java"
+    },
+    {
+      "id": "foodcraft:drink_maker/001_qiaokelinai",
+      "type": "foodcraft:drink_maker",
+      "inputs": [
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "foodcraft:qiaokeli"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:qiaokelinai",
+        "count": 1
+      },
+      "time": 350,
+      "water": 1,
+      "milk": true,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.0,
+      "exclusive_slots": [
+        1
+      ],
+      "source": "gui/recipes/Tpjrecipe.java"
+    },
+    {
+      "id": "foodcraft:fermenting_barrel/002_putaojiu",
+      "type": "foodcraft:fermenting_barrel",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:putao"
+          },
+          "count": 1
+        },
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "foodcraft:putao"
+          },
+          "count": 1
+        },
+        {
+          "slot": 2,
+          "ingredient": {
+            "item": "foodcraft:putao"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:putaojiu",
+        "count": 3
+      },
+      "time": 3600,
+      "water": 8,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.0,
+      "exclusive_slots": [
+        0,
+        1,
+        2
+      ],
+      "source": "gui/recipes/Ntrecipe.java"
+    },
+    {
+      "id": "foodcraft:fermenting_barrel/003_hongjiu",
+      "type": "foodcraft:fermenting_barrel",
+      "inputs": [
+        {
+          "slot": 0,
+          "ingredient": {
+            "item": "foodcraft:putaojiu"
+          },
+          "count": 1
+        },
+        {
+          "slot": 1,
+          "ingredient": {
+            "item": "foodcraft:putaojiu"
+          },
+          "count": 1
+        },
+        {
+          "slot": 2,
+          "ingredient": {
+            "item": "foodcraft:putaojiu"
+          },
+          "count": 1
+        }
+      ],
+      "result": {
+        "item": "foodcraft:hongjiu",
+        "count": 9
+      },
+      "time": 3600,
+      "water": 8,
+      "milk": false,
+      "cold": false,
+      "min_heat": 0,
+      "max_heat": 2147483647,
+      "experience": 0.0,
+      "exclusive_slots": [
+        0,
+        1,
+        2
+      ],
+      "source": "gui/recipes/Ntrecipe.java"
+    }
+  ],
+  "machineThumbnails": [
+    {
+      "file": "machine-cutting_board.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 18055,
+      "sha256": "fbd224346874ba983f48be61b045edbe68793993415d8fcbc7ac0e0cbcc3b0d9",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/cutting_board.json",
+      "sourceSha256": "ea071ff2ee6e574722c709af36bb7272506d6b80509f9e6bb331bb55376e21db"
+    },
+    {
+      "file": "machine-deep_fryer.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 30584,
+      "sha256": "d4fe334203164a20bae0c7f106ae3610c1b9bfab61c101a344c1414e94f683f5",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/deep_fryer.json",
+      "sourceSha256": "d6ba0ce4711a2c2e55de446b915ae7de4b4e9f735426b504b68ccf6b0c7e3c0f"
+    },
+    {
+      "file": "machine-drink_maker.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 31404,
+      "sha256": "d8e72493f79b2b1a058af7470829a122d2968689266bc6d3d5df0af605b9b69b",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/drink_maker.json",
+      "sourceSha256": "c7b6c5bdd3c3b284c009ce29275f2ba0734245bfa6ff30df6595503e7bf3714f"
+    },
+    {
+      "file": "machine-fermenting_barrel.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 38846,
+      "sha256": "6737745f8e8250f444d3be915f8c9579a19df46c69e28b2335558802b98efcc2",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/fermenting_barrel.json",
+      "sourceSha256": "db39896a1970df20777336dc5abc9978e3c092b10d7579bdeff61b4deab06d8c"
+    },
+    {
+      "file": "machine-frying_pan.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 14297,
+      "sha256": "a6df29d37610caba5f11a630206af95d5408b5ce14d84b555facd578d40c0e4a",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/frying_pan.json",
+      "sourceSha256": "86cf87016586f2cd33b2a39154351aedc13d5ab6e8b6de35e8ec12ecb54d295c"
+    },
+    {
+      "file": "machine-milling_machine.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 32102,
+      "sha256": "9f08ee4299282f2749f76a8d1fa59b9b9733815394ea8576f2f002f03068373a",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/milling_machine.json",
+      "sourceSha256": "24e2febdc80df852d1ccf5dd1cae85481e78d20e18ca32b7b3eae61e67f8877f"
+    },
+    {
+      "file": "machine-pot.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 23815,
+      "sha256": "ce4b101051e64ba59f1dc343bbff9fc4a2c72a181f311ceec36d494a51a3f776",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/pot.json",
+      "sourceSha256": "d752fa0909470d4ca452c0c217f4e614fc3dbef328dc0e5b203e792089b8849f"
+    },
+    {
+      "file": "machine-pressure_cooker.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 30585,
+      "sha256": "f2d0100926056228713f17ffd8ed08b17d7dbe2ed53d525dd8422dcf8024f7c4",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/pressure_cooker.json",
+      "sourceSha256": "a6db1be05ee6216b8335af1dc8f9fe91825961552b1d81e7c577a7f606189a63"
+    },
+    {
+      "file": "machine-stove.png",
+      "size": [
+        192,
+        192
+      ],
+      "bytes": 23467,
+      "sha256": "81e50ce474f6838c900f9395a36e009fbc39717f83dfc1db0814741c13a719fd",
+      "source": "common/src/main/resources/assets/foodcraft/models/block/stove.json",
+      "sourceSha256": "01e5931b26e0617e2c2ef9249ef3dc0e9d3c26a58d0439d9fed10394c488e49a"
+    }
+  ]
+}
