@@ -1,4 +1,4 @@
-![FoodCraft 食物工艺](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-overview.png)
+![FoodCraft 食物工艺](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-overview.png)
 
 # FoodCraft 食物工艺 · 2.0.0
 
@@ -12,7 +12,7 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 ## 农业与果园
 
-![FoodCraft 作物与果树果实图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-farming.png)
+![FoodCraft 作物与果树果实图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-farming.png)
 
 可种植的原料包括以下几类。谷物有水稻、糯稻和玉米，豆类有豆子、红豆和绿豆，蔬菜包括番茄、茄子、辣椒、青椒、黄瓜、白萝卜、红薯和葱，还有花生、葡萄、草莓等原料。
 
@@ -28,21 +28,19 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 ## 厨房设备
 
-![FoodCraft 九种加工设备模型与用途](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-machines.png)
+![FoodCraft 九种加工设备模型与用途](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-machines.png)
 
-各设备的用途、条件和默认加工时间如下。
-
-| 设备 | 主要用途与示例 | 使用条件 | 默认每批时间 |
-|---|---|---|---|
-| **碾磨机** | 水稻变大米，小麦变面粉，花生变花生油，豆子变豆浆；还可加工淀粉、糯米粉、巧克力粉和豆沙 | 原料 + 燃料 | 10 秒 |
-| **菜板** | 分切鸡肉、土豆丝、萝卜丝、面丝、鱿鱼丝，制作饺子馅 | 菜刀 + 对应槽位的食材 | 即时 |
-| **锅** | 盖饭、炒菜和部分传统食品，例如宫保鸡丁饭、麻婆豆腐饭、红烧肉饭、汤圆 | 主料、辅料按配方摆放；正下方灶炉供热 | 25 秒 |
-| **平底锅** | 荷包蛋、烙饼、煎饺、炒土豆片、麻花、爆玉米花 | 食材；正下方灶炉供热 | 20 秒 |
-| **高压锅** | 米饭、粥、鸡蛋羹、蘑菇炖鸡汤、清蒸鱼、皮蛋瘦肉粥 | 三格配料 + 燃料；每批 2 单位水 | 24 秒 |
-| **油炸机** | 炸鸡腿、薯条、鸡米花、炸春卷、炸豆腐、油条等 | 食材 + 燃料；每批 2 单位花生油 | 20 秒 |
-| **饮料制作机** | 果汁、蔬菜汁、豆奶、茶、奶茶、巧克力奶等 | 对应食材与水或牛奶；冷饮用冰，热饮用燃料 | 17.5 秒 |
-| **酿桶** | 果酒、红酒、白酒，也能制作酱油和醋 | 三格原料 + 8 单位水 | 180 秒 |
-| **灶炉** | 为上方的锅或平底锅提供热量 | 放入燃料，在正上方摆放锅具 | 随燃料燃烧 |
+| 设备 | 加工示例与条件 |
+|---|---|
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-milling_machine.png" width="80" height="80" alt="碾磨机" title="碾磨机"><br><strong>碾磨机</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-dami.png" width="40" height="40" alt="水稻" title="水稻" align="absmiddle"> 水稻 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-fan.png" width="40" height="40" alt="大米" title="大米" align="absmiddle"> 大米<br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-wheat.png" width="40" height="40" alt="小麦" title="小麦" align="absmiddle"> 小麦 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-mianfen.png" width="40" height="40" alt="面粉" title="面粉" align="absmiddle"> 面粉 ×2<br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-huashen.png" width="40" height="40" alt="花生" title="花生" align="absmiddle"> 花生 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-huashenyou.png" width="40" height="40" alt="花生油" title="花生油" align="absmiddle"> 花生油<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-coal.png" width="32" height="32" alt="燃料" title="燃料" align="absmiddle"> 燃料 · <strong>10 秒</strong> |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-cutting_board.png" width="80" height="80" alt="菜板" title="菜板"><br><strong>菜板</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-cooked_chicken.png" width="40" height="40" alt="熟鸡肉" title="熟鸡肉" align="absmiddle"> 熟鸡肉 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-jitui.png" width="40" height="40" alt="鸡腿" title="鸡腿" align="absmiddle"> 鸡腿 ×2<br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-potato.png" width="40" height="40" alt="土豆" title="土豆" align="absmiddle"> 土豆 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-tudoupian.png" width="40" height="40" alt="土豆片" title="土豆片" align="absmiddle"> 土豆片 ×3<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-caidao.png" width="32" height="32" alt="菜刀" title="菜刀" align="absmiddle"> 菜刀 · <strong>即时</strong><br>鸡肉、土豆放食材槽 1，其他食材槽留空 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-pot.png" width="80" height="80" alt="锅" title="锅"><br><strong>锅</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-nuomituan.png" width="40" height="40" alt="糯米团" title="糯米团" align="absmiddle"> 糯米团 + <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-huashentangyuanxian.png" width="40" height="40" alt="花生汤圆馅" title="花生汤圆馅" align="absmiddle"> 花生汤圆馅<br>→ <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-tangyuan.png" width="40" height="40" alt="汤圆" title="汤圆" align="absmiddle"> 汤圆<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-stove.png" width="40" height="40" alt="灶炉" title="灶炉"> 灶炉在正下方 · <strong>25 秒</strong><br>糯米团放食材槽 1，花生汤圆馅放食材槽 2；热量 400–500 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-frying_pan.png" width="80" height="80" alt="平底锅" title="平底锅"><br><strong>平底锅</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-egg.png" width="40" height="40" alt="鸡蛋" title="鸡蛋" align="absmiddle"> 鸡蛋 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-jianjidan.png" width="40" height="40" alt="荷包蛋" title="荷包蛋" align="absmiddle"> 荷包蛋<br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-jiaozi.png" width="40" height="40" alt="饺子" title="饺子" align="absmiddle"> 饺子 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-jianjiao.png" width="40" height="40" alt="煎饺" title="煎饺" align="absmiddle"> 煎饺<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-stove.png" width="40" height="40" alt="灶炉" title="灶炉"> 灶炉在正下方 · <strong>20 秒</strong><br>荷包蛋热量 250–400；煎饺热量 350–400 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-pressure_cooker.png" width="80" height="80" alt="高压锅" title="高压锅"><br><strong>高压锅</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-fan.png" width="40" height="40" alt="大米" title="大米" align="absmiddle"> 大米 ×3 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-baifan.png" width="40" height="40" alt="米饭" title="米饭" align="absmiddle"> 米饭<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-water_bucket.png" width="32" height="32" alt="水" title="水" align="absmiddle"> 水 2 单位 + <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-coal.png" width="32" height="32" alt="燃料" title="燃料" align="absmiddle"> 燃料 · <strong>24 秒</strong><br>三个食材槽各放 1 份大米 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-deep_fryer.png" width="80" height="80" alt="油炸机" title="油炸机"><br><strong>油炸机</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-jitui.png" width="40" height="40" alt="鸡腿" title="鸡腿" align="absmiddle"> 鸡腿 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-zhajitui.png" width="40" height="40" alt="炸鸡腿" title="炸鸡腿" align="absmiddle"> 炸鸡腿<br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-mahua.png" width="40" height="40" alt="麻花" title="麻花" align="absmiddle"> 麻花 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-zhamahua.png" width="40" height="40" alt="炸麻花" title="炸麻花" align="absmiddle"> 炸麻花<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-huashenyou.png" width="32" height="32" alt="花生油" title="花生油" align="absmiddle"> 花生油 2 单位 + <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-coal.png" width="32" height="32" alt="燃料" title="燃料" align="absmiddle"> 燃料 · <strong>20 秒</strong> |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-drink_maker.png" width="80" height="80" alt="饮料制作机" title="饮料制作机"><br><strong>饮料制作机</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-putao.png" width="40" height="40" alt="葡萄" title="葡萄" align="absmiddle"> 葡萄 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-putaozhi.png" width="40" height="40" alt="葡萄汁" title="葡萄汁" align="absmiddle"> 葡萄汁<br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-qiaokeli.png" width="40" height="40" alt="巧克力" title="巧克力" align="absmiddle"> 巧克力 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-qiaokelinai.png" width="40" height="40" alt="巧克力奶" title="巧克力奶" align="absmiddle"> 巧克力奶<br><br>葡萄汁：<img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-water_bucket.png" width="32" height="32" alt="水" title="水" align="absmiddle"> 水 1 单位 + <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-ice.png" width="32" height="32" alt="冰" title="冰" align="absmiddle"> 冰 冷却<br>巧克力奶：<img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-milk_bucket.png" width="32" height="32" alt="牛奶" title="牛奶" align="absmiddle"> 牛奶 1 单位 + <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-coal.png" width="32" height="32" alt="燃料" title="燃料" align="absmiddle"> 燃料<br><strong>17.5 秒</strong> |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-fermenting_barrel.png" width="80" height="80" alt="酿桶" title="酿桶"><br><strong>酿桶</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-putao.png" width="40" height="40" alt="葡萄" title="葡萄" align="absmiddle"> 葡萄 ×3 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-putaojiu.png" width="40" height="40" alt="葡萄酒" title="葡萄酒" align="absmiddle"> 葡萄酒 ×3<br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-putaojiu.png" width="40" height="40" alt="葡萄酒" title="葡萄酒" align="absmiddle"> 葡萄酒 ×3 → <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-hongjiu.png" width="40" height="40" alt="红酒" title="红酒" align="absmiddle"> 红酒 ×9<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-water_bucket.png" width="32" height="32" alt="水" title="水" align="absmiddle"> 水 8 单位 · <strong>180 秒</strong><br>三个原料槽各放 1 份葡萄或葡萄酒 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-stove.png" width="80" height="80" alt="灶炉" title="灶炉"><br><strong>灶炉</strong> | <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-pot.png" width="48" height="48" alt="锅" title="锅"> 锅 / <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/machine-frying_pan.png" width="48" height="48" alt="平底锅" title="平底锅"> 平底锅<br><br><img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-minecraft-coal.png" width="32" height="32" alt="燃料" title="燃料" align="absmiddle"> 燃料<br>锅具放在灶炉正上方，燃烧时供热 |
 
 ### 锅与平底锅的火候
 
@@ -58,7 +56,7 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 ## 菜板操作
 
-![熟鸡肉在菜板不同槽位的三种分切配方](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-cutting-board.png)
+![熟鸡肉在菜板不同槽位的三种分切配方](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-cutting-board.png)
 
 菜板最左侧放菜刀，右边依次是三个食材槽，下面是输出。熟鸡肉的分切配方如下：
 
@@ -72,14 +70,14 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 | 菜刀 | 耐久 |
 |---|---:|
-| 普通菜刀 | 59 |
-| 黄金菜刀 | 32 |
-| 钻石菜刀 | 480 |
-| 绿宝石菜刀 | 960 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-caidao.png" width="40" height="40" alt="菜刀" title="菜刀" align="absmiddle"> 普通菜刀 | 59 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-caidao_hj.png" width="40" height="40" alt="黄金菜刀" title="黄金菜刀" align="absmiddle"> 黄金菜刀 | 32 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-caidao_zs.png" width="40" height="40" alt="钻石菜刀" title="钻石菜刀" align="absmiddle"> 钻石菜刀 | 480 |
+| <img src="https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/icon-foodcraft-caidao_lbs.png" width="40" height="40" alt="绿宝石菜刀" title="绿宝石菜刀" align="absmiddle"> 绿宝石菜刀 | 960 |
 
 ## 主食与菜肴
 
-![FoodCraft 32 道主食与菜肴图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-meals.png)
+![FoodCraft 32 道主食与菜肴图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-meals.png)
 
 番茄炒鸡蛋饭、地三鲜饭、鱼香肉丝饭、宫保鸡丁饭、麻婆豆腐饭、红烧肉饭和回锅肉饭，把常见食材变成了不同的正餐。
 
@@ -89,7 +87,7 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 ## 零食与甜品
 
-![FoodCraft 点心、零食与油炸食品图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-snacks.png)
+![FoodCraft 点心、零食与油炸食品图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-snacks.png)
 
 点心包括饺子、煎饺、粽子、月饼、汤圆、年糕、艾糍、糍粑、核桃酥和酸菜饼，也有汉堡、比萨、热狗、辣条、爆玉米花、烤红薯和烤玉米。
 
@@ -97,7 +95,7 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 ### 果酱、夹心饼干和果味蛋糕
 
-![八种水果对应的果酱、夹心饼干与果味蛋糕](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-desserts.png)
+![八种水果对应的果酱、夹心饼干与果味蛋糕](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-desserts.png)
 
 葡萄、金葡萄、梨、桃子、橘子、柠檬、草莓和椰子，各自都有果酱、夹心饼干和蛋糕，共 **24 个果味变种**。蛋糕可以放在世界中食用。
 
@@ -111,7 +109,7 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 ## 饮料与酿造
 
-![FoodCraft 果汁、日常饮品、冰淇淋和酒类图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-drinks.png)
+![FoodCraft 果汁、日常饮品、冰淇淋和酒类图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-drinks.png)
 
 果汁包括葡萄、苹果、西瓜、梨、荔枝、桃子、芒果、柠檬、草莓、椰子、樱桃、香蕉等口味；此外还有蔬菜汁、胡萝卜汁、番茄汁、豆浆、豆奶、茶、奶茶、咖啡、巧克力奶与椰奶。
 
@@ -126,7 +124,7 @@ FoodCraft 增加了作物、果树、厨房设备和食物。水稻可以做成�
 
 ## 第一碗米饭
 
-![从种植水稻、碾磨大米到高压锅煮饭的入门操作图](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/57ffd21f68e21c058cece4a1d50644fa39c9cde4/docs/images/foodcraft-first-meal.png)
+![从种植水稻、碾磨大米到高压锅煮饭的入门操作图](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/db5e0face4029950568c560ad385fe66561b4c54/docs/images/foodcraft-first-meal.png)
 
 米饭的做法：
 
