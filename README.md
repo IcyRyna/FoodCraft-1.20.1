@@ -1,4 +1,4 @@
-![FoodCraft 食物工艺：从田地到餐桌](docs/images/foodcraft-overview.png)
+![FoodCraft 食物工艺：从田地到餐桌](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-overview.png)
 
 # FoodCraft 食物工艺 · 2.0.0
 
@@ -14,7 +14,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ## 农业与果园
 
-![FoodCraft 作物与果树果实图鉴](docs/images/foodcraft-farming.png)
+![FoodCraft 作物与果树果实图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-farming.png)
 
 厨房的原料可以自己种。谷物有水稻、糯稻和玉米，豆类有豆子、红豆和绿豆，蔬菜包括番茄、茄子、辣椒、青椒、黄瓜、白萝卜、红薯和葱，还有花生、葡萄、草莓等原料。
 
@@ -22,7 +22,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 - **水稻与糯稻各有用途**：水稻可碾磨成大米，糯米可继续加工成糯米粉，进入不同的食物制作路线。
 - **豆子有提前收获的用途**：植株进入后期但还没完全成熟时，可以收获豆角；成熟后则收获豆子。
 - **葱需要支撑**：可以种在泥土类方块或耕地上，也可长在已有的葱上；不要把它当作可以悬空摆放的装饰。
-- **建立果园**：破坏原版树叶有机会获得果树苗；水果搭配原版树苗的配方也能获得对应树苗。种下后需要留出生长空间，金坷垃可以催长 FoodCraft 果树。
+- **建立果园**：破坏原版树叶有机会获得果树苗。种下后需要留出生长空间，金坷垃可以催长 FoodCraft 果树。
 
 果树覆盖梨、荔枝、桃子、橘子、枇杷、芒果、柠檬、柚子、柿子、木瓜、山楂、龙眼、石榴、红枣、椰子、樱桃与香蕉。果实可以进入饮料、甜品和酿造配方，果园因此也是厨房的一部分。
 
@@ -30,7 +30,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ## 厨房设备
 
-![FoodCraft 九种加工设备模型与用途](docs/images/foodcraft-machines.png)
+![FoodCraft 九种加工设备模型与用途](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-machines.png)
 
 九种设备有各自的分工。下面列的是默认加工时间，按每秒 20 tick 计算；配方被数据包修改后，以当前配方为准。
 
@@ -60,7 +60,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ## 菜板操作
 
-![熟鸡肉在菜板不同槽位的三种分切配方](docs/images/foodcraft-cutting-board.png)
+![熟鸡肉在菜板不同槽位的三种分切配方](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-cutting-board.png)
 
 菜板最左侧放菜刀，右边依次是三个食材槽，下面是输出。熟鸡肉的几个配方最能说明槽位的重要性：
 
@@ -81,7 +81,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ## 主食与菜肴
 
-![FoodCraft 32 道主食与菜肴图鉴](docs/images/foodcraft-meals.png)
+![FoodCraft 32 道主食与菜肴图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-meals.png)
 
 米饭做好以后，厨房才刚刚开始热闹起来。番茄炒鸡蛋饭、地三鲜饭、鱼香肉丝饭、宫保鸡丁饭、麻婆豆腐饭、红烧肉饭和回锅肉饭，把常见食材变成了不同的正餐。
 
@@ -91,7 +91,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ## 零食与甜品
 
-![FoodCraft 点心、零食与油炸食品图鉴](docs/images/foodcraft-snacks.png)
+![FoodCraft 点心、零食与油炸食品图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-snacks.png)
 
 正餐之外，可以做饺子、煎饺、粽子、月饼、汤圆、年糕、艾糍、糍粑、核桃酥和酸菜饼，也有汉堡、比萨、热狗、辣条、爆玉米花、烤红薯和烤玉米。
 
@@ -99,7 +99,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ### 八种果味，三条甜品路线
 
-![八种水果对应的果酱、夹心饼干与果味蛋糕](docs/images/foodcraft-desserts.png)
+![八种水果对应的果酱、夹心饼干与果味蛋糕](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-desserts.png)
 
 葡萄、金葡萄、梨、桃子、橘子、柠檬、草莓和椰子，各自都有果酱、夹心饼干和蛋糕，共 **24 个果味变种**。蛋糕可以放在世界中食用，适合摆在厨房、餐厅或聚会场景里。
 
@@ -113,7 +113,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ## 饮料与酿造
 
-![FoodCraft 果汁、日常饮品、冰淇淋和酒类图鉴](docs/images/foodcraft-drinks.png)
+![FoodCraft 果汁、日常饮品、冰淇淋和酒类图鉴](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-drinks.png)
 
 果汁包括葡萄、苹果、西瓜、梨、荔枝、桃子、芒果、柠檬、草莓、椰子、樱桃、香蕉等口味；此外还有蔬菜汁、胡萝卜汁、番茄汁、豆浆、豆奶、茶、奶茶、咖啡、巧克力奶与椰奶。
 
@@ -128,7 +128,7 @@ FoodCraft 把种植、食材加工、烹饪、甜品、饮料和酿造连在一�
 
 ## 第一碗米饭
 
-![从种植水稻、碾磨大米到高压锅煮饭的入门操作图](docs/images/foodcraft-first-meal.png)
+![从种植水稻、碾磨大米到高压锅煮饭的入门操作图](https://raw.githubusercontent.com/IcyRyna/FoodCraft-1.20.1/177f093cd3a43b63e407f039a3688b8b333aeb3c/docs/images/foodcraft-first-meal.png)
 
 第一次接触这个模组，可以先完成这条最直观的路线：
 
